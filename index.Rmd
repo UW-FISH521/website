@@ -99,7 +99,7 @@ Although I strive to create and use inclusive materials in this course, there ma
 
 **Please note**: If you believe you have been a victim of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html) or you are aware of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html), you have the right to [report it to the University](https://www.washington.edu/cssc/for-students-2/).
 
-## Title IX
+### Title IX
 
 For support, resources, and reporting options related to sex- and gender-based violence or harassment, visit [UW Title IX’s webpage](https://www.washington.edu/titleix/), specifically the [Know Your Rights & Resources](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/181/2020/08/10185033/KYRR-guide-8-10-2020-LINKED.pdf) guide. 
 
