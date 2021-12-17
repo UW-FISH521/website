@@ -1,0 +1,28 @@
+---
+title: "Reference materials"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+Students are not required to purchase any materials for the course, as we will rely upon freely available software and information sources. As the course progresses, more references will be added to this page.
+
+## Online books
+
+Jenny Bryan (and others) [*Happy Git and GitHub for the useR*](https://happygitwithr.com/) [abbreviated "HGG" elsewhere on this site]
+
+Hadley Wickham & Garrett Grolemund [*R for Data Science*](https://r4ds.had.co.nz/index.html)
+
+Natalie Cooper & Pen-Yuan Hsing (Editors) [*A Guide to Reproducible Code in Ecology and Evolution*](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+
+Scott Chacon & Ben Straub [Pro Git](https://git-scm.com/book/en/v2)
+
+## Tutorials
+
+R-bloggers [*R tutorials for Data Science*](https://www.r-bloggers.com/2016/06/curated-list-of-r-tutorials-for-data-science/) 
+
+

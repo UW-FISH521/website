@@ -1,0 +1,99 @@
+---
+title: "2021 List of Homework"
+output: html_document
+---
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+## week 2
+github <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 3
+forking_workflows <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 4
+getting_help <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 5
+databases <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 6
+data_viz <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 7
+publishing <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 8
+markdown <- list(
+  title = "",
+  topics = c(""),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 9
+presentations <- list(
+  title = "Markdown presentations",
+  topics = c("Markdown presentations"),
+  pdf = "",
+  rmd = "homework/week_08/hw_08_presentations.Rmd",
+  html = "homework/week_08/hw_08_presentations.html",
+  data = "",
+  key = ""
+)
+```
+

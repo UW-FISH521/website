@@ -1,0 +1,134 @@
+---
+title: "2021 List of Lectures"
+output: html_document
+---
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+## week 1 ####
+intro <- list(
+  title = "Introduction",
+  topics = c("<b>Course overview</b>", "What is data science?", "Types of questions", "Storytelling"),
+  pdf = c(""),
+  rmd = c("lectures/week_01/lec_01_class_overview.Rmd"),
+  html = c("lectures/week_01/lec_01_class_overview.html"),
+  background = c("[Leek & Peng (2015)](references/Leek_Peng_2015_what_is_the_Q.pdf)", "[D’Agostino McGowan (2020)](https://docs.google.com/presentation/d/1pZe8Sp350iYzsKsweZzR374179gvRwpI3cAX_NObgj8/edit#slide=id.p)", "[Peng (2018)](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/)"),
+  zoom = "https://washington.zoom.us/rec/share/Ydi_QbEEGi9MPbnZ7uu1ktIfqzgjFu6OMKmf-ryTmQDdvvOmN1HLuljzOUdXlJEc.FA3tieV9K1Bm_irQ"
+)
+
+## week 2 ####
+analysis_steps <- list(
+  title = "Steps to an analysis",
+  topics = c("<b>Steps to an analysis</b>", "Informal vs formal", "Rubrics", "Required software"),
+  pdf = c(""),
+  rmd = c("lectures/week_01/lec_02_analysis_steps_software.Rmd"),
+  html = c("lectures/week_01/lec_02_analysis_steps_software.html"),
+  background = c("[Cooper & Hsing (2017)](references/BES_guide_to_reproducible_code.pdf)"),
+  zoom = "https://washington.zoom.us/rec/share/CuDs50KvFqJYIpY6FS5YkDKCXxXHkqE87389Jmgp-iMvu-0TScoMEED6iANgScFe.XiNQdClLe7mKZ_jc"
+)
+
+## week 3 ####
+organization_styles <- list(
+  title = "Organization & styles",
+  topics = c("<b>Organization & styles</b>", "Research compendia", "Coding styles"),
+  pdf = c(""),
+  rmd = c("lectures/week_01/lec_03_orgs_styles.Rmd"),
+  html = c("lectures/week_01/lec_03_orgs_styles.html"),
+  background = c("[Marwick et al (2018)](references/Marwick_etal_2018_research_compendia.pdf)",
+                 "[Tidyverse Style Guide](https://style.tidyverse.org/)"),
+  zoom = "https://washington.zoom.us/rec/share/2ixFr_g--goTtgQqWNyKnIhugg-5cbdPIEvGfxLXEZ-UHkj1LaT_HQemFbcrq-xA.HQXzvtUQ5J0Q80ls"
+)
+
+## week 4 ####
+github <- list(
+  title = "Introduction to GitHub",
+  topics = c("<b>Introduction to GitHub</b>", "Repositories", "Markdown", "Issues", "Projects"),
+  pdf = c(""),
+  rmd = c("lectures/week_02/lec_04_intro_github.Rmd"),
+  html = c("lectures/week_02/lec_04_intro_github.html"),
+  background = c("[Intro to GitHub](https://guides.github.com/activities/hello-world/)"),
+  zoom = "https://washington.zoom.us/rec/share/G2495j6sl9XrUNDDjv1Crp4HGrp87C076SuiyALx4C4mvI-PebUYl6GVhsdJ-XyV.SDEAhBm7UVDk0rNq"
+)
+
+## week 5 ####
+version_control <- list(
+  title = "Version control",
+  topics = c("<b>Version control with Git</b>", "Adding files", "Committing file", "Exploring history", "Reverting files"),
+  pdf = c(""),
+  rmd = c("lectures/week_02/lec_05_intro_git.Rmd"),
+  html = c("lectures/week_02/lec_05_intro_git.html"),
+  background = c("[Blischak et al (2016)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)",
+                 "[Chap 20 of HGG](https://happygitwithr.com/git-basics.html)"),
+  zoom = "https://washington.zoom.us/rec/share/g2aCswhrEwnWd2CqwuZm4VC3lpvQfOD43_UOystrUX8Gf5HouQzx7FqL9Ih702Ms.TcuTyAWmlncnFpD-"
+)
+
+## week 6 ####
+remotes <- list(
+  title = "Remote repositories",
+  topics = c("<b>Remote repositories</b>", "Remotes in GitHub", "RStudio projects", "Pushing/pulling"),
+  pdf = c(""),
+  rmd = c("lectures/week_02/lec_06_git_remotes.Rmd"),
+  html = c("lectures/week_02/lec_06_git_remotes.html"),
+  background = c("[RStudio cheatsheet](references/rstudio_cheatsheet.pdf)",
+                 "[Chaps 9 & 10 of HGG](https://happygitwithr.com/)"),
+  zoom = "https://washington.zoom.us/rec/share/tHfuTE4jFXIwk3hmNTPOgaLfIb3l0zazWBkYPCAQXMw9i5GFzigIZiCIO5-dp69h.HGCrSO0Lj5tGNUar"
+)
+
+## week 7 ####
+holiday_1 <- list(
+  title = "Martin Luther King Jr. Day",
+  topics = c("<i>Martin Luther King, Jr. Day</i>", "<b>No class</b>"),
+  pdf = c(""),
+  rmd = "",
+  html = "",
+  background = "",
+  zoom = ""
+)
+
+## week 8 ####
+workflows <- list(
+  title = "Understanding workflows",
+  topics = c("<b>Understanding workflows</b>", "Centralized", "Feature branch", "Forking"),
+  pdf = c(""),
+  rmd = c("lectures/week_03/lec_08_workflows.Rmd",
+          "lectures/week_03/lec_08_workflows_ex.Rmd"),
+  html = c("lectures/week_03/lec_08_workflows.html",
+           "lectures/week_03/lec_08_workflows_ex.html"),
+  background = c("[Sec VI of HGG](https://happygitwithr.com/workflows-intro.html)",
+                 "[Learn Git branching](https://pcottle.github.com/learnGitBranching/)"),
+  zoom = "https://washington.zoom.us/rec/share/Yp03AKOsgLghHHIQWofxEpf6hehdYFdDwJBzJ9ZEXmIKxzYIjsa8VMbVstD-FOnd.NYOvESQX8eDj11fb"
+)
+
+## week 9 ####
+working_with_data <- list(
+  title = "Working with data",
+  topics = c("<b>Working with data</b>", "Chain of custody", "Tidy data", "Manual entry"),
+  pdf = c(""),
+  rmd = "lectures/week_03/lec_09_working_with_data.Rmd",
+  html = "lectures/week_03/lec_09_working_with_data.html",
+  background = c("[Ellis & Leek (2017)](references/Ellis_Leek_2017_how_to_share_data.pdf)",
+                 "[Broman & Woo (2018)](references/Broman_Woo_2018_data_in_spreadsheets.pdf)"),
+  zoom = "https://washington.zoom.us/rec/share/CiPCUFYjxOKhbFHXjCsbeg9Kc4JK3EMn6H4_Vv2ccyPI17TJRuVbXayJ59ehQZod.JdT2X4wtWiEHbvBX"
+)
+
+## week 10 ####
+data_ingest <- list(
+  title = "Getting data",
+  topics = c("<b>Getting data</b>", "Importing text files", "Reading from Excel & Google"),
+  pdf = c(""),
+  rmd = "lectures/week_04/lec_10_getting_data.Rmd",
+  html = "lectures/week_04/lec_10_getting_data.html",
+  background = c("[readr pkg](https://readr.tidyverse.org/)",
+                 "[readxl pkg](https://readxl.tidyverse.org/)",
+                 "[googlesheets pkg](https://googlesheets4.tidyverse.org/index.html)",
+                 "[jsonlite pkg](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html)"),
+  zoom = "https://washington.zoom.us/rec/share/hlJqbcxGwXB_XdGUM1qQw4VXdJuinBv4bVUQGa57Cz7KZV_MFx-u_gpUeMcSQeyB.Bxiw7wIOazetcAOu"
+)
+
+```
+
+
+
