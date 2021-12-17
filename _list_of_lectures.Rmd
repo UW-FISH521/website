@@ -31,15 +31,14 @@ analysis_steps <- list(
 )
 
 ## week 3 ####
-organization_styles <- list(
-  title = "Organization & styles",
-  topics = c("<b>Organization & styles</b>", "Research compendia", "Coding styles"),
+holiday_1 <- list(
+  title = "Martin Luther King Jr. Day",
+  topics = c("<i>Martin Luther King, Jr. Day</i>", "<b>No class</b>"),
   pdf = c(""),
-  rmd = c("lectures/week_01/lec_03_orgs_styles.Rmd"),
-  html = c("lectures/week_01/lec_03_orgs_styles.html"),
-  background = c("[Marwick et al (2018)](references/Marwick_etal_2018_research_compendia.pdf)",
-                 "[Tidyverse Style Guide](https://style.tidyverse.org/)"),
-  zoom = "https://washington.zoom.us/rec/share/2ixFr_g--goTtgQqWNyKnIhugg-5cbdPIEvGfxLXEZ-UHkj1LaT_HQemFbcrq-xA.HQXzvtUQ5J0Q80ls"
+  rmd = "",
+  html = "",
+  background = "",
+  zoom = ""
 )
 
 ## week 4 ####
@@ -78,9 +77,9 @@ remotes <- list(
 )
 
 ## week 7 ####
-holiday_1 <- list(
-  title = "Martin Luther King Jr. Day",
-  topics = c("<i>Martin Luther King, Jr. Day</i>", "<b>No class</b>"),
+holiday_2 <- list(
+  title = "President's Day",
+  topics = c("<i>President's Day</i>", "<b>No class</b>"),
   pdf = c(""),
   rmd = "",
   html = "",

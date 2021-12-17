@@ -29,7 +29,7 @@ week_lecs$L1 <- intro
 ## week 2
 week_lecs$L2 <- analysis_steps
 ## week 3
-week_lecs$L3 <- organization_styles
+week_lecs$L3 <- holiday_1
 ## week 4
 week_lecs$L4 <- github
 ## week 5
@@ -37,9 +37,9 @@ week_lecs$L5 <- version_control
 ## week 6
 week_lecs$L6 <- remotes
 ## week 7
-week_lecs$L7 <- holiday_1
+week_lecs$L7 <- workflows
 ## week 8
-week_lecs$L8 <- workflows
+week_lecs$L8 <- holiday_2
 ## week 9
 week_lecs$L9 <- working_with_data
 ## week 10
