@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Environmental Data Science"
-subtitle: "FISH 497 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Winter 2021"
+title: "Research Proposal Writing and Professional Development"
+subtitle: "FISH 521 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Winter 2022"
 output:
   html_document:
     toc: true
@@ -12,24 +12,36 @@ output:
 
 # Course overview
 
-Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. In some cases, questions about what and how things were done have left other scientists unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practitioners of the tools and skills necessary for more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This relatively new field of "Data Science" is broadly defined, but generally combines elements of data literacy, computer programming, statistics, and graphic design. A data scientist is generally expected to identify relevant questions, gather data from multiple sources, organize it, extract meaningful information, and communicate the results to others.
+This class was designed, some years ago, to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. It still includes the development of scientific ideas into coherent proposals, but other forms of communication, and forms of professional development to help graduate students during and after their time at the University of Washington.
 
-This course will provide an overview of some data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students will learn how to translate raw data from field and lab studies into databases and "tidy" digital formats, which can then be used for plotting, statistical analyses, etc. Students will learn how to track the history of file changes (version control), collaborate online with others, and generate "recipes" for re-creating one's work. Although failure and frustration in science are common, the open science community tries hard to be welcoming and helpful. Thus, students will also learn how and where to ask for help when attempting something new (*e.g.*, How do I create X from Y?), debugging or fixing code (*e.g.*, What does this error message mean?), etc.
+Before one can write a scientific proposal, one needs to know how scientific papers are conceptualized and written, as they are the basic template for proposals. Accordingly, the class will include the elements of crafting scientific papers, and each student will choose one to examine closely. This will clarify many lessons related to the structure of scientific papers, and the use of published literature and other sources of data and information. Scientific papers typically result from formal or informal proposals, and knowing how papers are written helps inform the process of developing proposals.
 
-Importantly, this course will also discuss the various types of data used in environmental science, which includes an exploration of what constitutes "raw" data versus derived products, and the implications of using the various types. The course will also focus on the ethical and social consequences of using various data types. For example, some recent studies have inferred gender identities from survey responses based on first names, and used that information to summarize hiring practices, demographics of successful grant applications, etc. However, doing so is widely regarded as inappropriate due to non-binary genders and inaccuracies in gender assignment.
+Proposal development starts with an idea, which is then placed in the context of what is already known, and the needs in the scientific community and society at large for further information. Students will go through this process, learning the mechanics of proposal writing, and providing constructive feedback on written and oral presentations of each other's proposals.
 
-**Please note**: Although statistical analysis and figures/diagrams are very important in data science, this course will not focus on those aspects because there are others in the College of the Environment that do. Some examples include:
+Writing grant proposals is one of the basic tools of a successful scientist. In most academic positions, a large part of scientific success is measured by the ability to attract funds. Furthermore, scientific projects are usually expensive in terms of salary, field work and laboratory analyses, and so you have to find the money to carry out the research. On the positive side, writing proposals can be one of the most exciting and satisfying aspects of your job, especially when you are successful.
 
-* FISH 454 - Ecological Modeling
+In addition to scientific papers and proposals, it is important to see the scientific process in the context of society at large, and the professional development of graduate students. Towards this goal, the class will include student-led discussions and readings related to the chronic under-representation of women and people of color, and discussions between graduate students and faculty members regarding the mentoring process, from student and faculty perspectives.
 
-* FISH 458 - Modeling and Estimation in Conservation and Resource Management
+Another vital component of being a scientist is the ability to review colleagues' work critically, but constructively. Once you become established, you will receive many manuscripts and grant proposals to review each year. While such reviews are usually anonymous (that is, the authors do not know your identity), editors and panelists know who you are and you will quickly establish a reputation as a reviewer. It is important that you criticize the work according to rigorous scientific standards, but you should keep in mind that your review may have significant effects on other people's career and job prospects.
 
-* FISH 546 - Bioinformatics for Environmental Sciences
+This class has several aims:
 
-* FISH 554 - Beautiful Graphics in R
+* to prepare a proposal of your choice (see below for more details)
+* to review and critique proposals of your peers
+* to discuss aspects of proposal writing, such as
+    * resources on campus for finding out about funding agencies, foundations
+    * structure of successful grant proposals
+    * aspects of the review process
+    * examples of successful and unsuccessful grant proposals
+* to consider general aspects of scientific writing
 
-* QERM 514 - Analysis of Ecological and Environmental Data
+# Grant writing
 
+Granting agencies differ a lot in the specificity of their research goals. For example, the National Science Foundation (NSF) usually accepts unsolicited proposals (that is, you can submit anything within a very general area, e.g. population biology), whereas more applied agencies such as the North Pacific Research Board are very specific in their requests for proposals (RFP). For such more specific agencies you can have the most exciting idea which could lead to a scientific revolution - if it is not responsive to the agency's RFP, it won't get funded. In such cases, part of the trick is to find a compromise between your interests and the agency's research priorities. However, here we follow the format of the NSF, which is one of the most general funding agencies.
+
+Many of you already know that you need to produce a research proposal for your thesis work, to be submitted to your committee and to be included in your graduate student file. Guidelines for such proposals can be found on the SAFS web page. This class is a very good opportunity to work on your proposal, and I suggest that you use the time and feedback to produce at least a draft by the end of the class. I will be very happy to help you towards this aim, in class, outside class and in future.
+
+Some of you have been hired on an RAship for a specific project. In that case, a proposal for your work already exists. It's nice to have an example of an obviously successful proposal (otherwise you wouldn't be here) already in hand, but it is important for your own career as well as for this class that you try to bring in your own ideas based on that proposal. This class is a good opportunity to develop these ideas. I certainly don't want to see large parts of your PIs proposal in your class work - if there are any questions, what's acceptable and what not, come and see me.
 
 <br>
 
@@ -37,25 +49,6 @@ Importantly, this course will also discuss the various types of data used in env
 
 By the end of the quarter, students should be able to:
 
-* Use **Git** to commit changes to files, recover old versions, push/pull changes to remote repositories, and manage merge conflicts
-
-* Use **GitHub** to create repositories, manage projects, open/comment/close issues, and submit pull requests
-
-* Create a reproducible example to use in a quest for help
-
-* Import and clean a messy data file using a variety of {packages}::functions in **R**
-
-* Properly describe and document data using **Ecological Metadata Language**
-
-* Create and access a relational database with **PostgreSQL**
-
-* Use unit tests in **R** to evaluate code functionality
-
-* Create a package in **R** and document its contents
-
-* Use **R Markdown** to combine text, equations, code, tables, and figures into reports, websites, and presentations
-
-* Create dynamic html reports with **Shiny**
 
 <br>
 
@@ -65,36 +58,22 @@ By the end of the quarter, students should be able to:
 Associate Professor, School of Aquatic & Fishery Sciences  
 [scheuerl@uw.edu](mailto:scheuerl@uw.edu)
 
-### Special guest appearances by
-
-[**Kara Woo**](https://karawoo.com/)  
-Principal Bioinformatics Engineer, Sage Bionetworks
-
-[**Jennifer Scheuerell**](https://www.sharperinfo.com/)  
-Chief Technology Officer, Sharper Informatics Solutions
-
-[**Dr. Christine Stawitz**](https://cstawitz.github.io/)  
-Stock Assessment Model Developer, NOAA Fisheries Office of Science and Technology
-
-[**Dr. Margaret Siple**](https://twitter.com/margaretsiple)  
-Research Fishery Biologist, NOAA Alaska Fisheries Science Center
-
 <br>
 
 # Meeting times & locations
 
-M/W/F from 10:30-11:20 via [Zoom](https://washington.zoom.us/j/93872111357)
+Mondays from 1:30-4:20 in FSH 203
 
-**Note**: All students must sign into their Zoom accounts with their `@wa.edu` email address.
 
 #### Office hours
+
 By appointment
 
 <br>
 
 # Pre-requisites
 
-Students should have a working knowledge of the [**R**](https://www.r-project.org/) computing software, such as that provided in FISH 552/553.
+None.
 
 <br>
 
@@ -120,6 +99,18 @@ Although I strive to create and use inclusive materials in this course, there ma
 
 **Please note**: If you believe you have been a victim of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html) or you are aware of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html), you have the right to [report it to the University](https://www.washington.edu/cssc/for-students-2/).
 
+## Title IX
+
+For support, resources, and reporting options related to sex- and gender-based violence or harassment, visit [UW Title IX’s webpage](https://www.washington.edu/titleix/), specifically the [Know Your Rights & Resources](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/181/2020/08/10185033/KYRR-guide-8-10-2020-LINKED.pdf) guide. 
+
+Please know that if you choose to disclose information to me about sex- or gender-based violence or harassment, I will connect you (or the person who experienced the conduct) with resources and individuals who can best provide support and options. You can also access those resources directly:
+
+* **Confidential**: [Confidential advocates](https://www.washington.edu/sexualassault/support/advocacy/) will not share information with others unless given express permission by the person who has experienced the harm or when required by law.
+
+* **Private and/or anonymous**: [SafeCampus](SafeCampus) provides consultation and support and can connect you with additional resources if you want them.You can contact SafeCampus anonymously or share limited information when you call.
+
+Please note that some senior leaders and other specified employees have been identified as "[Officials Required to Report](https://www.washington.edu/titleix/title-ix-officials-required-to-report/)". If an Official Required to Report learns of possible sex- or gender-based violence or harassment, they are required to call SafeCampus and report all the details they have in order to ensure that the person who experienced harm is offered support and reporting options.  
+
 <br>
 
 # Access & accommodations
@@ -136,28 +127,17 @@ Students who expect to miss class or assignments as a consequence of their relig
 
 <br>
 
+# Excused absence
+
+Students are expected to attend class and to participate in all graded activities, including midterms and final examinations. A student who is anticipating being absent from class due to a Religious Accommodation activity needs to complete the Religious Accommodations request process by the second Friday of the quarter. Students who anticipate missing class due to attendance at academic conferences or field trips, or participation in university-sponsored activities should provide a written notice to the instructor ahead of the absence. The instructor will determine if the graded activity or exam can be rescheduled or if there is equivalent work that can be done as an equivalent, as determined by the instructor.
+
+<br>
+
 # Technology
 
 This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. **For students without access to a personal laptop**: it is possible to check out UW laptops for an entire quarter (see the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details).
 
-All of the software we will be using is free and platform independent, meaning students may use macOS, Linux, or Windows operating systems. In addition to a web browser, we will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE). We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time. The instructor will be available during the first week of class to help students troubleshoot any software installation problems.
-
-We will be using [**Git**](https://git-scm.com/downloads), a free and open source version control system for tracking changes to our files. 
-
-We will be using [**PostgreSQL**](https://www.postgresql.org/download/) to create and access relational databases.
-
-Students will also be required to have a user account on [**GitHub**](https://github.com/), which we will be using for file hosting and communications via "issues". If you do not already have an account, you can sign up for a free one [here](https://github.com/join?source=header-home). The instructor will provide training on how to use the intended features in **GitHub**.
-
-### Zoom recordings
-
-This course is scheduled to run synchronously at our scheduled class time via [Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/). These Zoom class sessions will be recorded. The recording will capture the presenter’s audio, video and computer screen. Student audio and video will be recorded if they share their computer audio and video during the recorded session. The recordings will only be accessible to students enrolled in the course to review materials. These recordings will not be shared with the public, and will be deleted after 90 days.
-
-UW-IT and Zoom have a Business Associates Agreement (BAA) to protect the security and privacy of UW Zoom accounts and is [FERPA](https://registrar.washington.edu/students/ferpa/) compliant. Students who **do not** wish to give consent to being recorded should:
-
-* Choose a Zoom username that does not include any personal identifying information like their name or UW NetID  
-* Never share their computer audio or video during their Zoom sessions  
-
-**By enrolling in this class, all students agree to never upload course recordings to other platforms**. 
+Students will be required to have a user account on [**GitHub**](https://github.com/), which we will be using for file hosting and communications via its "Discussions" and "Issues" features. If you do not already have an account, you can sign up for a free one [here](https://github.com/join?source=header-home). The instructor will provide training on how to use the intended features in **GitHub**.
 
 <br>
 
@@ -181,13 +161,11 @@ Students will be evaluated on their knowledge of course content and their abilit
 
 ### Homework
 
-Homework will be assigned each Friday of weeks 2-9 and will be due by 11:59 PM 9 days later on the following Sunday (weeks 3-10). The instructor will evaluate and return student homework assignments within one week of their due date. **If for some reason you cannot meet the homework deadline, contact the instructor as soon as possible to discuss other options**. Please see the [Homework](homework.html) page for more details.
+Homework will be assigned each Monday of weeks 2-9 and will be due by 11:59 PM 9 days later on the following Sunday (weeks 3-10). The instructor will evaluate and return student homework assignments within one week of their due date. **If for some reason you cannot meet the homework deadline, contact the instructor as soon as possible to discuss other options**. Please see the [Homework](homework.html) page for more details.
 
 ### Participation
 
-Data science is about communicating your ideas and findings to others. As such, this course will require students to engage with the instructor and one another in small groups. I expect all students to contribute to our discussions of concepts, results, bugs/errors, etc. 
-
-Students should discuss any potential schedule conflicts with the instructor during the first week of class.
+This course will require students to engage with the instructor and one another in small groups. I expect all students to contribute to our discussions of concepts, results, bugs/errors, etc. 
 
 <br>
 
@@ -219,6 +197,10 @@ Phone: 206-543-1240
 # Safety
 
 If you feel unsafe or at-risk in any way while taking any course, contact [SafeCampus](https://www.washington.edu/safecampus/) (206-685-7233) anytime&ndash;no matter where you work or study&ndash;to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested. For a broader range of resources and assistance see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
+
+### Face Coverings in the Classroom
+
+The health and safety of the University of Washington community are the institution's priorities. Please review and adhere to the [UW COVID Face Covering Policy](https://www.ehs.washington.edu/system/files/resources/COVID-19-face-cover-policy.pdf).
 
 <br>
 
