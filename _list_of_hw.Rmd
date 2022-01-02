@@ -8,10 +8,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r}
-## week 2
-github <- list(
+## week 1
+focal_paper <- list(
   title = "",
-  topics = c(""),
+  topics = c("Focal paper & relevant references"),
+  pdf = "",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 2
+message_box <- list(
+  title = "",
+  topics = c("Message boxes"),
   pdf = "",
   rmd = "",
   html = "",
@@ -20,9 +31,9 @@ github <- list(
 )
 
 ## week 3
-forking_workflows <- list(
+holiday_1 <- list(
   title = "",
-  topics = c(""),
+  topics = c("<i>Holiday - no assignment</i>"),
   pdf = "",
   rmd = "",
   html = "",
@@ -31,9 +42,9 @@ forking_workflows <- list(
 )
 
 ## week 4
-getting_help <- list(
+proposal_draft <- list(
   title = "",
-  topics = c(""),
+  topics = c("Draft proposal"),
   pdf = "",
   rmd = "",
   html = "",
@@ -42,9 +53,9 @@ getting_help <- list(
 )
 
 ## week 5
-databases <- list(
+cover_letter <- list(
   title = "",
-  topics = c(""),
+  topics = c("Cover letter to journal"),
   pdf = "",
   rmd = "",
   html = "",
@@ -53,9 +64,9 @@ databases <- list(
 )
 
 ## week 6
-data_viz <- list(
+review_draft <- list(
   title = "",
-  topics = c(""),
+  topics = c("Peer review of draft proposal"),
   pdf = "",
   rmd = "",
   html = "",
@@ -64,9 +75,9 @@ data_viz <- list(
 )
 
 ## week 7
-publishing <- list(
+scicomm <- list(
   title = "",
-  topics = c(""),
+  topics = c("Tweet thread or blog post"),
   pdf = "",
   rmd = "",
   html = "",
@@ -75,9 +86,9 @@ publishing <- list(
 )
 
 ## week 8
-markdown <- list(
+holiday_2 <- list(
   title = "",
-  topics = c(""),
+  topics = c("<i>Holiday - no assignment</i>"),
   pdf = "",
   rmd = "",
   html = "",
@@ -86,12 +97,23 @@ markdown <- list(
 )
 
 ## week 9
-presentations <- list(
-  title = "Markdown presentations",
-  topics = c("Markdown presentations"),
+proposal_final <- list(
+  title = "",
+  topics = c("Final proposal"),
   pdf = "",
-  rmd = "homework/week_08/hw_08_presentations.Rmd",
-  html = "homework/week_08/hw_08_presentations.html",
+  rmd = "",
+  html = "",
+  data = "",
+  key = ""
+)
+
+## week 10
+review_final <- list(
+  title = "",
+  topics = c("Peer review of final proposal"),
+  pdf = "",
+  rmd = "",
+  html = "",
   data = "",
   key = ""
 )
