@@ -1,5 +1,5 @@
 ---
-title: "Assignments"
+title: "Homework"
 output: html_document
 ---
 
@@ -15,23 +15,23 @@ library(magrittr)
 library(kableExtra)
 ```
 
-Students will have occasional assignments that will require them to demonstrate their knowledge of various course topics.
-
-All assignments will be submitted, reviewed, and returned via GitHub.
+All homework assignments should be emailed to the instructor at 
 
 ```{r week_hw, include = FALSE}
 ## empty list for labs
-week_hw <- vector("list", 8)
-names(week_hw) <- paste0("L", seq(8))
+week_hw <- vector("list", 10)
+names(week_hw) <- paste0("L", seq(10))
 ## hw topics
-week_hw$L1 <- github
-week_hw$L2 <- forking_workflows
-week_hw$L3 <- getting_help
-week_hw$L4 <- databases
-week_hw$L5 <- data_viz
-week_hw$L6 <- publishing
-week_hw$L7 <- markdown
-week_hw$L8 <- presentations
+week_hw$L1 <- focal_paper
+week_hw$L2 <- message_box
+week_hw$L3 <- holiday_1
+week_hw$L4 <- proposal_draft
+week_hw$L5 <- cover_letter
+week_hw$L6 <- review_draft
+week_hw$L7 <- scicomm
+week_hw$L8 <- holiday_2
+week_hw$L9 <- proposal_final
+week_hw$L10 <- review_final
 ```
 
 ```{r topics, include = FALSE}
@@ -118,7 +118,7 @@ names(key_links_html) <- NULL
 ```{r generate_table, echo=FALSE}
 ## data frame with dates & topics
 syl_txt <- data.frame(
-  date = sub("0(\\d)", "\\1", format(mon[2:9], "%d %b")),
+  date = sub("0(\\d)", "\\1", format(mon[1:10], "%d %b")),
   topics = topics_html,
   assignment_links = assignment_links_html,
   template_links = template_links_html,
