@@ -12,28 +12,16 @@ output:
 
 # Course overview
 
-This class was designed, some years ago, to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. It still includes the development of scientific ideas into coherent proposals, but other forms of communication, and forms of professional development to help graduate students during and after their time at the University of Washington.
+This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington.
 
 Before one can write a scientific proposal, one needs to know how scientific papers are conceptualized and written, as they are the basic template for proposals. Accordingly, the class will include the elements of crafting scientific papers, and each student will choose one to examine closely. This will clarify many lessons related to the structure of scientific papers, and the use of published literature and other sources of data and information. Scientific papers typically result from formal or informal proposals, and knowing how papers are written helps inform the process of developing proposals.
 
-Proposal development starts with an idea, which is then placed in the context of what is already known, and the needs in the scientific community and society at large for further information. Students will go through this process, learning the mechanics of proposal writing, and providing constructive feedback on written and oral presentations of each other's proposals.
-
-Writing grant proposals is one of the basic tools of a successful scientist. In most academic positions, a large part of scientific success is measured by the ability to attract funds. Furthermore, scientific projects are usually expensive in terms of salary, field work and laboratory analyses, and so you have to find the money to carry out the research. On the positive side, writing proposals can be one of the most exciting and satisfying aspects of your job, especially when you are successful.
-
-In addition to scientific papers and proposals, it is important to see the scientific process in the context of society at large, and the professional development of graduate students. Towards this goal, the class will include student-led discussions and readings related to the chronic under-representation of women and people of color, and discussions between graduate students and faculty members regarding the mentoring process, from student and faculty perspectives.
+Proposal development starts with an idea, which is then placed in the context of what is already known, and the needs in the scientific community and society at large for further information. Students will go through this process, learning the mechanics of proposal writing, and providing constructive feedback on written and oral presentations of student proposals.
 
 Another vital component of being a scientist is the ability to review colleagues' work critically, but constructively. Once you become established, you will receive many manuscripts and grant proposals to review each year. While such reviews are usually anonymous (that is, the authors do not know your identity), editors and panelists know who you are and you will quickly establish a reputation as a reviewer. It is important that you criticize the work according to rigorous scientific standards, but you should keep in mind that your review may have significant effects on other people's career and job prospects.
 
-This class has several aims:
+In addition to scientific papers and proposals, it is important to see the scientific process in the context of society at large, and the professional development of graduate students. Towards this goal, the class will include student-led discussions and readings related to the chronic under-representation of women and people of color, and discussions between graduate students and faculty members regarding the mentoring process, from student and faculty perspectives.
 
-* to prepare a proposal of your choice (see below for more details)
-* to review and critique proposals of your peers
-* to discuss aspects of proposal writing, such as
-    * resources on campus for finding out about funding agencies, foundations
-    * structure of successful grant proposals
-    * aspects of the review process
-    * examples of successful and unsuccessful grant proposals
-* to consider general aspects of scientific writing
 
 # Grant writing
 
@@ -41,14 +29,21 @@ Granting agencies differ a lot in the specificity of their research goals. For e
 
 Many of you already know that you need to produce a research proposal for your thesis work, to be submitted to your committee and to be included in your graduate student file. Guidelines for such proposals can be found on the SAFS web page. This class is a very good opportunity to work on your proposal, and I suggest that you use the time and feedback to produce at least a draft by the end of the class. I will be very happy to help you towards this aim, in class, outside class and in future.
 
-Some of you have been hired on an RAship for a specific project. In that case, a proposal for your work already exists. It's nice to have an example of an obviously successful proposal (otherwise you wouldn't be here) already in hand, but it is important for your own career as well as for this class that you try to bring in your own ideas based on that proposal. This class is a good opportunity to develop these ideas. I certainly don't want to see large parts of your PIs proposal in your class work - if there are any questions, what's acceptable and what not, come and see me.
-
 <br>
 
 # Learning objectives
 
 By the end of the quarter, students should be able to:
 
+* search a publication database like Web of Science or Google Scholar for papers of interest
+
+* use a message box to refine scientific questions and objectives
+
+* write a cover letter for a publication that conveys the importance of the work and its relevance to the journal
+
+* review a proposal or manuscript using language that is critical of the work, but not the authors themselves
+
+* create a scientific presentation that conveys the question of interest, the study objective(s), and findings of interest 
 
 <br>
 
@@ -157,15 +152,13 @@ In addition to email and Zoom, we will use the "Issues" feature in **GitHub** to
 
 # Evaluation
 
-Students will be evaluated on their knowledge of course content and their ability to communicate their understanding of the material via individual homework assignments (80%) and their active participation in class (20%). There will be 8 homework assignments, each counting toward 10% of the final grade. Please note, **all assignments must be turned in to achieve a passing grade**.
+Students will be evaluated on their knowledge of course content and their ability to communicate their understanding of the material via individual homework assignments. There will be 8 homework assignments, each with varying weight on your final grade (see . Please note, **all assignments must be turned in to achieve a passing grade**.
 
-### Homework
-
-Homework will be assigned each Monday of weeks 2-9 and will be due by 11:59 PM 9 days later on the following Sunday (weeks 3-10). The instructor will evaluate and return student homework assignments within one week of their due date. **If for some reason you cannot meet the homework deadline, contact the instructor as soon as possible to discuss other options**. Please see the [Homework](homework.html) page for more details.
+Homework will be assigned each Monday and will be due by 1:30 PM the following Monday, with the exception of the final assignment, which will be due by 11:59 PM on March 16. The instructor will evaluate and return student homework assignments within one week of their due date. **If for some reason you cannot meet the homework deadline, contact the instructor as soon as possible to discuss other options**. Please see the [Homework](homework.html) page for more details.
 
 ### Participation
 
-This course will require students to engage with the instructor and one another in small groups. I expect all students to contribute to our discussions of concepts, results, bugs/errors, etc. 
+This course will require students to engage with the instructor and one another in small groups. I expect all students to contribute to our discussions and I will use random call-outs as a means for hearing from everyone. 
 
 <br>
 
