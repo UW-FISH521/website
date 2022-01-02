@@ -75,6 +75,17 @@ reviewing <- list(
 )
 
 ## week 7 ####
+presentations <- list(
+  title = "Presentations",
+  topics = c("Scientific presentations", "Creating a website", "Blogs & social media"),
+  pdf = c(""),
+  rmd = c(""),
+  html = c(""),
+  background = c(""),
+  zoom = ""
+)
+
+## week 8 ####
 holiday_2 <- list(
   title = "President's Day",
   topics = c("<i>President's Day</i>", "<b>No class</b>"),
@@ -82,17 +93,6 @@ holiday_2 <- list(
   rmd = "",
   html = "",
   background = "",
-  zoom = ""
-)
-
-## week 8 ####
-workflows <- list(
-  title = "Presentations",
-  topics = c("Scientific presentations", "Creating a website", "Blogs & social media"),
-  pdf = c(""),
-  rmd = c(""),
-  html = c(""),
-  background = c(""),
   zoom = ""
 )
 
