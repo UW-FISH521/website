@@ -13,7 +13,7 @@ syl_txt <- data.frame(
   lec_topics = lec_topics_html,
   hw_topics = hw_topics_html
 )
-colnames(syl_txt) <- c("Date", "Lecture topic(s)", "Homework")
+colnames(syl_txt) <- c("Date", "Topics", "Homework")
 ## generate table
 kable(syl_txt, format = "html", caption = " ", escape = FALSE) %>%
   kable_styling(bootstrap_options = "striped",
