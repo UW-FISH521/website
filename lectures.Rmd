@@ -27,23 +27,23 @@ names(week_lecs) <- paste0("L", seq(10))
 ## week 1
 week_lecs$L1 <- intro
 ## week 2
-week_lecs$L2 <- analysis_steps
+week_lecs$L2 <- proposals
 ## week 3
 week_lecs$L3 <- holiday_1
 ## week 4
-week_lecs$L4 <- github
+week_lecs$L4 <- papers
 ## week 5
-week_lecs$L5 <- version_control
+week_lecs$L5 <- submission
 ## week 6
-week_lecs$L6 <- remotes
+week_lecs$L6 <- reviewing
 ## week 7
-week_lecs$L7 <- workflows
+week_lecs$L7 <- presentations
 ## week 8
 week_lecs$L8 <- holiday_2
 ## week 9
-week_lecs$L9 <- working_with_data
+week_lecs$L9 <- proposal_presentations
 ## week 10
-week_lecs$L10 <- data_ingest
+week_lecs$L10 <- careers
 ```
 
 ```{r topics, include = FALSE, eval = FALSE}
