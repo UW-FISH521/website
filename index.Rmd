@@ -1,5 +1,5 @@
 ---
-title: "Research Proposal Writing and Professional Development for Graduate Students"
+title: "Proposal Writing and Professional Development for Graduate Students"
 subtitle: "FISH 521 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Winter 2022"
 output:
   html_document:
