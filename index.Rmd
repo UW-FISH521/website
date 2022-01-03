@@ -44,6 +44,7 @@ By the end of the quarter, students should be able to:
 
 [**Mark Scheuerell**](https://fish.uw.edu/faculty/mark-scheuerell/)  
 Associate Professor, School of Aquatic & Fishery Sciences  
+220A FSH
 [scheuerl@uw.edu](mailto:scheuerl@uw.edu)
 
 <br>
@@ -117,7 +118,7 @@ Students who expect to miss class or assignments as a consequence of their relig
 
 # Excused absence
 
-Students are expected to attend class and to participate in all graded activities, including midterms and final examinations. A student who is anticipating being absent from class due to a Religious Accommodation activity needs to complete the Religious Accommodations request process by the second Friday of the quarter. Students who anticipate missing class due to attendance at academic conferences or field trips, or participation in university-sponsored activities should provide a written notice to the instructor ahead of the absence. The instructor will determine if the graded activity or exam can be rescheduled or if there is equivalent work that can be done as an equivalent, as determined by the instructor.
+Students are expected to attend class and to participate in all graded activities. A student who is anticipating being absent from class due to a Religious Accommodation activity needs to complete the Religious Accommodations request process by the second Friday of the quarter. Students who anticipate missing class due to attendance at academic conferences or field trips, or participation in university-sponsored activities should provide a written notice to the instructor ahead of the absence. The instructor will determine if the graded activity or exam can be rescheduled or if there is equivalent work that can be done as an equivalent, as determined by the instructor.
 
 <br>
 
@@ -131,7 +132,7 @@ Students will be required to have a user account on [**GitHub**](https://github.
 
 # Teaching methodology
 
-This course will introduce new material primarily through prepared slides and hands-on demonstrations. Students will be expected to work both individually and collaboratively (to the extent possible given the current conditions); course content and evaluation will emphasize the communication of ideas and the ability to think critically more so than a specific pathway or method. Other areas of this website provide an overview of the topics to be covered, including links to weekly reading assignments, lecture materials, computer labs, and homework assignments.
+This course will introduce new material primarily through prepared slides and hands-on demonstrations. Students will be expected to work both individually and collaboratively (to the extent possible given the current conditions); course content and evaluation will emphasize the communication of ideas and the ability to think critically more so than a specific pathway or method. Other areas of this website provide an overview of the topics to be covered, including links to weekly reading assignments, lecture materials, and homework assignments.
 
 <br>
 
