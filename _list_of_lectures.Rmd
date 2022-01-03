@@ -15,7 +15,7 @@ intro <- list(
   pdf = c(""),
   rmd = c("lectures/week_01/lec_01_class_overview.Rmd"),
   html = c("lectures/week_01/lec_01_class_overview.html"),
-  background = c(""),
+  background = c("[WOS search tips](https://images.webofknowledge.com/images/help/WOS/hs_search_operators.html)", "[Google Scholar tips](https://scholar.google.com/intl/en/scholar/help.html)"),
   zoom = ""
 )
 
