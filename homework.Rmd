@@ -15,7 +15,7 @@ library(magrittr)
 library(kableExtra)
 ```
 
-All homework assignments should be emailed to the instructor at 
+All homework assignments should be emailed to the instructor at `scheuerl@uw.edu` with the subject line `FISH 521 - HW?` where `?` is the assignment number.
 
 ```{r week_hw, include = FALSE}
 ## empty list for labs
@@ -115,27 +115,34 @@ key_links_html <- sapply(lapply(key_links, function(x) {
 names(key_links_html) <- NULL
 ```
 
+```{r due_dates, include = FALSE}
+due_dates <- lapply(week_hw, function(x) { if(is.list(x)) {c(x$due_date)} else {""} })
+## due dates formatted for html
+due_dates_html <- sapply(lapply(due_dates, paste, "<br>", collapse = ""), c)
+names(due_dates_html) <- NULL
+```
+
 ```{r generate_table, echo=FALSE}
 ## data frame with dates & topics
 syl_txt <- data.frame(
   date = sub("0(\\d)", "\\1", format(mon[1:10], "%d %b")),
   topics = topics_html,
   assignment_links = assignment_links_html,
-  template_links = template_links_html,
-  data_links = data_links_html,
-  key_links = key_links_html
+  # template_links = template_links_html,
+  due_dates = due_dates_html
+  # key_links = key_links_html
 )
-colnames(syl_txt) <- c("Date", "Topic(s)", "Instructions", "Template", "Data", "Answer key")
+colnames(syl_txt) <- c("Date", "Topic", "Instructions", "Due date")
 rownames(syl_txt) <- NULL
 
 ## generate table
 kable(syl_txt, format = "html", caption = " ",
-      align = "clccc", escape = FALSE) %>%
+      align = "clcc", escape = FALSE) %>%
   kable_styling(bootstrap_options = "striped",
                 full_width = FALSE,
                 position = "left") %>%
   column_spec(1, width = "6em") %>%
-  column_spec(c(3,4,5), width = "7em") %>%
-  column_spec(6, width = "8em")
+  column_spec(2, width = "20em") %>%
+  column_spec(c(3,4), width = "8em")
 ```
 
