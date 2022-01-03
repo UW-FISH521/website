@@ -1,0 +1,237 @@
+---
+title: "Course overview"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "3 January 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+WHO AM I? 
+</font>
+
+
+## Mark Scheuerell
+
+* Assistant Unit Leader, USGS WACFWRU (2019-present)
+
+* Associate Professor, SAFS (2019-present)
+
+* Research Fisheries Biologist, NOAA (2003-2019)
+
+
+## Mark Scheuerell
+
+* Assistant Unit Leader, USGS WACFWRU (2019-present)
+
+* Associate Professor, SAFS (2019-present)
+
+* Research Fisheries Biologist, NOAA (2003-2019)
+
+* Grew up in Sartell, MN
+
+* BS from Univ of Wisconsin - Madison
+
+* MS from Cornell University
+
+* PhD from UW (advisor: Daniel Schindler)
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+MY QUALIFICATIONS? 
+</font>
+
+
+## Mark Scheuerell
+
+* Author of 65+ peer-reviewed papers
+
+
+## Mark Scheuerell
+
+* Author of 65+ peer-reviewed papers
+
+* Associate Editor, *Limnology and Oceanography Letters* (2016-present)
+
+* Special Issue Editor, *Limnology and Oceanography* (2017-2018)
+
+* Associate Editor, *Ecological Research* (2007-2017)
+
+* Manuscript reviewer for 30+ journals
+
+* Outstanding Reviewer, *Canadian Journal of Fisheries and Aquatic Sciences* (2017) 
+
+
+## Mark Scheuerell
+
+* Author of 65+ peer-reviewed papers
+
+* Associate Editor, *Limnology and Oceanography Letters* (2016-present)
+
+* Special Issue Editor, *Limnology and Oceanography* (2017-2018)
+
+* Associate Editor, *Ecological Research* (2007-2017)
+
+* Manuscript reviewer for 30+ journals
+
+* Outstanding Reviewer, *Canadian Journal of Fisheries and Aquatic Sciences* (2017) 
+
+* Panel reviewer for NSF
+
+
+## My role as course instructor
+
+> - Help you learn the material
+
+> - Be a future resource
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+WHO ARE YOU? 
+</font>
+
+
+## Introduce yourself with the following:
+
+1. Your name & pronouns
+
+2. Your advisor/lab
+
+3. Your home town
+
+4. Your undergraduate school
+
+5. Your research area(s) of interest
+
+6. What you'd like to get out of this course
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Course logistics 
+</font>
+
+
+## General weekly schedule
+
+* 1:30 - 2:30 discussion of background info
+
+* 2:30 - 2:40 *SAFS Cafe*
+
+* 2:40 - 3:25 hands-on exercises & small-group discussions
+
+* 3:25 - 3:35 *break*
+
+* 3:35 - 4:20 feedback & further discussion
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+[__Course information__](https://fish497.github.io/website)
+</font>
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Writing habits
+</font>
+
+
+## Writing habits
+
+* Being a good writer takes **a lot** of practice
+
+* Developing good writing habits is part of the process
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Creative writing exercise
+</font>
+
+
+## &nbsp; {data-background=story_cubes.jpeg data-background-size=60%}
+
+
+## Story cubes - instructions
+
+1. Pick an image for the starting point of your story.
+
+2. Beginning with "Once upon a time...", make up a story that somehow links together all 9 of the images.
+
+
+## &nbsp; {data-background=story_cubes_roll.jpg data-background-size=60%}
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Searching the literature
+</font>
+
+
+## Finding papers of interest?
+
+* Word of mouth
+
+* Journal table of contents
+
+* Online searches
+
+
+## Web of Science (WOS)
+
+* WOS is a powerful and popular option
+
+* Find it online [here](https://guides.lib.uw.edu/az.php)
+
+
+## Google Scholar
+
+* Google Scholar is another option
+
+* Find it online [here](https://scholar.google.com/schhp?hl=en)
+
+* **Note**: results will vary between WOS & Google
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Reference management
+</font>
+
+
+## Staying organized
+
+### Reference management software has 2 benefits:
+
+1. keeps your references organized and easily searchable
+
+2. (generally) integrated with word processing software to create citations and literature cited section
+
+
+## Software options
+
+| Software | Pros | Cons |
+|:--:|:---|:---|
+| [EndNote](https://endnote.com/downloads) | works with MS Word | not free |
+| [Zotero](https://www.zotero.org/download/) | works with MS Word; browser plug-in | can be hard to share |
+| [Mendeley](https://www.mendeley.com/download-reference-manager/) | works with MS Word | can be hard to share |
+| [BibTeX](http://www.bibtex.org/) | works with LaTeX & Markdown | antiquated |
