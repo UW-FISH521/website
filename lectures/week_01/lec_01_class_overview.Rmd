@@ -179,4 +179,59 @@ Creative writing exercise
 ## &nbsp; {data-background=story_cubes_roll.jpg data-background-size=60%}
 
 
+## {.flexbox .vcenter .bigger}
 
+<font size="10">
+Searching the literature
+</font>
+
+
+## Finding papers of interest?
+
+* Word of mouth
+
+* Journal table of contents
+
+* Online searches
+
+
+## Web of Science (WOS)
+
+* WOS is a powerful and popular option
+
+* Find it online [here](https://guides.lib.uw.edu/az.php)
+
+
+## Google Scholar
+
+* Google Scholar is another option
+
+* Find it online [here](https://scholar.google.com/schhp?hl=en)
+
+* **Note**: results will vary between WOS & Google
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Reference management
+</font>
+
+
+## Staying organized
+
+### Reference management software has 2 benefits:
+
+1. keeps your references organized and easily searchable
+
+2. (generally) integrated with word processing software to create citations and literature cited section
+
+
+## Software options
+
+| Software | Pros | Cons |
+|:--:|:---|:---|
+| [EndNote](https://endnote.com/downloads) | works with MS Word | not free |
+| [Zotero](https://www.zotero.org/download/) | works with MS Word; browser plug-in | can be hard to share |
+| [Mendeley](https://www.mendeley.com/download-reference-manager/) | works with MS Word | can be hard to share |
+| [BibTeX](http://www.bibtex.org/) | works with LaTeX & Markdown | antiquated |
