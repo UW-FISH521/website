@@ -7,22 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Students are not required to purchase any materials for the course, as we will rely upon freely available information sources. As the course progresses, more references will be added to this page.
+
 <br>
 
-Students are not required to purchase any materials for the course, as we will rely upon freely available software and information sources. As the course progresses, more references will be added to this page.
+## Books
 
-## Online books
-
-Jenny Bryan (and others) [*Happy Git and GitHub for the useR*](https://happygitwithr.com/) [abbreviated "HGG" elsewhere on this site]
-
-Hadley Wickham & Garrett Grolemund [*R for Data Science*](https://r4ds.had.co.nz/index.html)
-
-Natalie Cooper & Pen-Yuan Hsing (Editors) [*A Guide to Reproducible Code in Ecology and Evolution*](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-
-Scott Chacon & Ben Straub [Pro Git](https://git-scm.com/book/en/v2)
-
-## Tutorials
-
-R-bloggers [*R tutorials for Data Science*](https://www.r-bloggers.com/2016/06/curated-list-of-r-tutorials-for-data-science/) 
+Heard SB. 2016. [*The Scientist’s Guide to Writing*](https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/). Princeton University Press. 301 pp.
 
 
+<br>
+
+## Blogs & threads
+
+[Google search tips](https://twitter.com/chrishlad/status/1431674870299955206)
