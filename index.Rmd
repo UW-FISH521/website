@@ -20,11 +20,6 @@ Proposal development starts with an idea, which is then placed in the context of
 
 Another vital component of being a scientist is the ability to review colleagues' work critically, but constructively. Once you become established, you will receive many manuscripts and grant proposals to review each year. While such reviews are usually anonymous (that is, the authors do not know your identity), editors and panelists know who you are and you will quickly establish a reputation as a reviewer. It is important that you criticize the work according to rigorous scientific standards, but you should keep in mind that your review may have significant effects on other people's career and job prospects.
 
-
-# Grant writing
-
-Granting agencies differ a lot in the specificity of their research goals. For example, the National Science Foundation (NSF) usually accepts unsolicited proposals (that is, you can submit anything within a very general area, e.g. population biology), whereas more applied agencies such as the North Pacific Research Board are very specific in their requests for proposals (RFP). For such more specific agencies you can have the most exciting idea which could lead to a scientific revolution - if it is not responsive to the agency's RFP, it won't get funded. In such cases, part of the trick is to find a compromise between your interests and the agency's research priorities. However, here we follow the format of the NSF, which is one of the most general funding agencies.
-
 Many of you already know that you need to produce a research proposal for your thesis work, to be submitted to your committee and to be included in your graduate student file. Guidelines for such proposals can be found on the SAFS web page. This class is a very good opportunity to work on your proposal, and I suggest that you use the time and feedback to produce at least a draft by the end of the class. I will be very happy to help you towards this aim, in class, outside class and in future.
 
 <br>
