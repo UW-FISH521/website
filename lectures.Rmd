@@ -7,6 +7,11 @@ output: html_document
 
 #### Please note that the schedule and topics may change as the course progresses.
 
+<br>
+
+#### To advance the slide deck, use the arrow keys on your keyboard. You can also print the slides to a pdf by selecting the "print" option from your browser's menu.
+
+
 ```{r child = "_timeline.Rmd", include=FALSE}
 ```
 
