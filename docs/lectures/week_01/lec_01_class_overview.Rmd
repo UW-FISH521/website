@@ -141,7 +141,7 @@ Course logistics
 ## {.flexbox .vcenter .bigger}
 
 <font size="10">
-[__Course information__](https://fish497.github.io/website)
+[__Course information__](https://uw-fish521.github.io/website/index.html)
 </font>
 
 
