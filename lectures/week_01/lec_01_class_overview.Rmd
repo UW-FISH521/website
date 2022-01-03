@@ -1,0 +1,287 @@
+---
+title: "Course overview"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "3 January 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+WHO AM I? 
+</font>
+
+
+## Mark Scheuerell
+
+* Assistant Unit Leader, USGS WACFWRU (2019-present)
+
+* Associate Professor, SAFS (2019-present)
+
+* Research Fisheries Biologist, NOAA (2003-2019)
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+MY QUALIFICATIONS? 
+</font>
+
+
+## Mark Scheuerell
+
+* Author of 65+ peer-reviewed papers
+
+* Associate Editor, *Limnology and Oceanography Letters* (2016-present)
+
+* Special Issue Editor, *Limnology and Oceanography* (2017-2018)
+
+* Associate Editor, *Ecological Research* (2007-2017)
+
+* Outstanding Reviewer, *Canadian Journal of Fisheries and Aquatic Sciences* (2017) 
+
+* Manuscript reviewer for 30+ journals
+
+* Panel reviewer for NSF
+
+
+## My role as course instructor
+
+> - Help you learn the material
+
+> - Help you learn how to ask for help
+
+> - Be a future resource
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+WHO ARE YOU? 
+</font>
+
+
+## Introduce yourself via Zoom chat:
+
+1. Your degree program (undergrad, grad)
+
+2. Your school/department
+
+3. Your major (undergrads) or area of study (grads)
+
+<br>
+
+For example,  
+
+`undergrad, SEFS, ESRM`  
+
+`grad, SAFS, salmon migration timing`
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+What is *data science*? 
+</font>
+
+
+## Data science is...
+
+> - statistics on a Mac
+
+> - 80% preparing data, 20% complaining about preparing data
+
+> - 90% Googling and 10% pasting from Stack Overflow
+
+
+## Data science motto
+
+> If at first you don’t succeed, call it version 1.0
+
+
+## Data science is interdisciplanary
+
+* Math and statistics
+
+* Computer science
+
+* Knowledge about the system
+
+* Communication
+
+
+## Data science process | This should all be reproducible
+
+1. Define the question of interest  
+2. Get the data  
+3. Clean the data  
+4. Explore the data  
+5. Fit statistical models  
+6. Communicate the results  
+
+
+## Data science time
+
+1. ~~Define the question of interest~~  
+2. **Get the data**  
+3. **Clean the data**  
+4. ~~Explore the data~~  
+5. ~~Fit statistical models~~  
+6. **Communicate the results**  
+
+**Making this reproducible**  
+
+
+## &nbsp; {data-background=images/data_sci_overview.png data-background-size=90%}
+
+
+## {.flexbox .vcenter}
+
+### Good data science is distinguished from bad data science primarily by a repeatable, thoughtful, skeptical application of an analytic process to data in order to arrive at supportable conclusions.
+
+### -- Jeff Leek
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Questions in data science
+</font>
+
+
+## {data-background=images/leek_peng_Q.png data-background-size=80% .futnote}
+
+Leek & Peng (2015) *Science*
+
+
+## Descriptive
+
+Summarizes the information in a single data set without further interpretation
+
+ex: the US Census
+
+
+## Exploratory
+
+Searches for trends, correlations, etc among multiple variables
+
+ex: "data mining"
+
+
+## Inferential
+
+Generalizes to the population from a sample
+
+ex: wearing a mask reduces the spread of COVID
+
+
+## Predictive
+
+Uses a subset of the data to parameterize a model and predicts out-of-sample data
+
+ex: using weather to predict recreational fishing effort
+
+
+## Causal
+
+Seeks to understand the *average* magnitude and direction of a response
+
+ex: experimental analysis of temperature effects on oyster growth
+
+
+## Mechanistic
+
+Seeks to understand the *specific* magnitude and direction of relationships
+
+ex: engineering studies
+
+ 
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+Storytelling in data science
+</font>
+
+
+## Communicating an analysis
+
+Although you may have spent weeks/months on an analysis, most people only want the bottom line
+
+The key is weaving everything into a nice story to achieve both **trust** and **belief**
+
+
+## Trust
+
+Do you accept the analysis per se?
+
+Were the data analyzed properly and thoroughly?
+
+<br>
+
+Trust is specific to the analysis/analyst (internal)
+
+
+## Belief
+
+Do you believe the analysis?
+
+<br>
+
+Belief is more broadly related to previous work and other factors (external)
+
+
+## 3 parts to an analysis
+
+1. The things you did and presented
+
+2. The things you did but did not present
+
+3. The things you did not do
+
+The trick is to strike a balance to achieve trust and belief
+
+
+## Things we'll emphasize
+
+* Thinking about data separately from research
+
+> - Increasing efficiency & reproducibility
+
+> - Facilitating collaboration with others
+
+> - Finding answers from the community
+
+> - Communicating our workflows & results
+
+
+## Things we won't emphasize
+
+* Specific options for cleaning & tidying data (eg, tidyverse)
+
+> - Specific analytical techniques (eg, machine learning)
+
+> - Specific plotting techniques (eg, ggplot)
+
+
+## How are we going to do this?
+
+* Use *lots* of online resources
+
+* Use open/live coding
+
+* Rely on our community for help
+
+
+## {.flexbox .vcenter .bigger}
+
+<font size="10">
+[__Course information__](https://fish497.github.io/website)
+</font>
+
