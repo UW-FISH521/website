@@ -15,8 +15,8 @@ focal_paper <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Jan 10",
-  key = ""
+  due_date = "10 Jan",
+  percent = "5%"
 )
 
 ## week 2
@@ -26,8 +26,8 @@ message_box <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Jan 18",
-  key = ""
+  due_date = "18 Jan",
+  percent = "5%"
 )
 
 ## week 3
@@ -38,7 +38,7 @@ holiday_1 <- list(
   rmd = "",
   html = "",
   due_date = "",
-  key = ""
+  percent = ""
 )
 
 ## week 4
@@ -48,8 +48,8 @@ proposal_draft <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Jan 31",
-  key = ""
+  due_date = "31 Jan",
+  percent = "15%"
 )
 
 ## week 5
@@ -59,8 +59,8 @@ cover_letter <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Feb 7",
-  key = ""
+  due_date = "7 Feb",
+  percent = "10%"
 )
 
 ## week 6
@@ -70,8 +70,8 @@ review_draft <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Feb 14",
-  key = ""
+  due_date = "14 Feb",
+  percent = "15%"
 )
 
 ## week 7
@@ -81,8 +81,8 @@ scicomm <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Feb 22",
-  key = ""
+  due_date = "22 Feb",
+  percent = "10%"
 )
 
 ## week 8
@@ -93,7 +93,7 @@ holiday_2 <- list(
   rmd = "",
   html = "",
   due_date = "",
-  key = ""
+  percent = ""
 )
 
 ## week 9
@@ -104,7 +104,7 @@ proposal_final <- list(
   rmd = "",
   html = "",
   due_date = "In class",
-  key = ""
+  percent = "15%"
 )
 
 ## week 10
@@ -114,8 +114,8 @@ review_final <- list(
   pdf = "",
   rmd = "",
   html = "",
-  due_date = "Mar 16",
-  key = ""
+  due_date = "16 Mar",
+  percent = "25%"
 )
 ```
 
