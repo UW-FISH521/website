@@ -25,7 +25,7 @@ WHO AM I?
 
 * Associate Professor, SAFS (2019-present)
 
-* Research Fisheries Biologist, NOAA (2003-2019)
+* Research Fisheries Biologist, NOAA Fisheries (2003-2019)
 
 
 ## Mark Scheuerell
@@ -195,7 +195,7 @@ Heard (2016, p22) writes
 
 ## Encouraging self-awareness
 
-* Reminders
+**Reminders**
 
 > - Put a sticky note on your monitor that asks, "*How* are you writing?"
 
@@ -204,7 +204,7 @@ Heard (2016, p22) writes
 
 ## Encouraging self-awareness
 
-* Writing log
+**Writing log**
 
 > - Choose a 2+ hour block for writing
 
@@ -213,14 +213,62 @@ Heard (2016, p22) writes
 
 ## Encouraging self-awareness
 
-* Cooperation
+**Cooperation**
 
 > - Discuss behaviors with a friend or colleague
 
 > - Send copies of daily accomplishments or exchange writing logs
 
 
+## Behavioral challenges
 
+**Avoidance**
+
+> - Procrastinators ("I need a snack")
+
+> - Intential non-starters ("I'll wait for the moment")
+
+
+## Behavioral challenges
+
+**Distraction**
+
+> - Consider your environment and time of day
+
+> - What else is going on in your life?
+
+
+## Behavioral challenges
+
+**Feeling stuck ("Writer's block")** 
+
+> - Lower your standards
+
+> - Divide and conquer
+
+> - Change your environment or take a break
+
+> - Talk it out
+
+> - Freewrite
+
+
+## Behavioral challenges
+
+**Perfectionism**
+
+> - Try to get *something* on paper & edit it later
+
+> - Chris Harley, my former officemate and current professor at UBC used to say, "Write drunk. Edit sober." (Note that I do not endorse this behavior.)
+
+
+## Behavioral challenges
+
+**Fear of criticism**
+
+> - Red ink can be triggering
+
+> - Accept constructive criticism and make it work for you
 
 
 ## {.flexbox .vcenter .bigger}
