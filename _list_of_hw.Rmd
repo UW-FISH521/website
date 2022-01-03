@@ -14,7 +14,7 @@ focal_paper <- list(
   topics = c("Focal paper & relevant references"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_01/hw_01_references.html",
   due_date = "10 Jan",
   percent = "5%"
 )
