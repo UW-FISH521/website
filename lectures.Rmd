@@ -167,7 +167,7 @@ syl_txt <- data.frame(
   background_links = background_links_html
 )
 colnames(syl_txt) <- c("Date", "Topics",
-                       "Notes (html)", # "Source (Rmd)", "Slides (pdf)",
+                       "Notes", # "Source (Rmd)", "Slides (pdf)",
                        # "Zoom recording",
                        "Background info")
 rownames(syl_txt) <- NULL
