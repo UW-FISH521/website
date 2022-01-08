@@ -97,5 +97,106 @@ specific
 </div>
 
 
+## Body of proposal | Objectives
 
+* Most critical part
+
+    - helps the writer organize thoughts  
+    - tells the reader what to expect
+    
+
+## Body of proposal | Objectives
+
+* Most critical part
+
+    - helps the writer organize thoughts  
+    - tells the reader what to expect
+    
+
+## Body of proposal | Objectives
+
+* Consider a two-step approach
+
+    1. The overall goal of this study is to...  
+    2. Specifically, I will test the following three hypotheses
+
+
+## Body of proposal | Objectives
+
+*  Begin with general questions
+
+> - End with specific hypotheses/predictions
+
+> - Avoid statements like "will be different" or "will show a pattern"
+
+
+## Body of proposal | Materials & methods
+
+* Use enough detail that a reader could essentially duplicate the study (or envision it accurately)
+
+> - Provide important details & omit irrelevant ones
+
+> - Sub-headings can be a useful way to organize the section (eg, "Field study", "Data analysis")
+
+
+## Body of proposal | Timeline {data-background=fortune.png data-background-size=60% data-background-position="50% 70%"}
+
+
+
+## Body of proposal | Timeline
+
+* Outline *what* will happen & *when* it will happen
+
+> - Should mirror elements of methods section
+
+> - Should also include time for writing
+
+
+## Body of proposal | Timeline
+
+* Gantt charts are a great way to show a timeline
+
+* Can use Excel or many R packages (eg, `{gantrify}`)
+
+
+## Gantt chart
+
+```{r gantt}
+library("ganttrify")
+
+dat <- data.frame(wp = LETTERS[1:4],
+                  activity = c("Collect data", "Analyze data",
+                               "Outreach", "Write report"),
+                  start_date = c(1, 4, 7, 10),
+                  end_date = c(5, 7, 9, 12))
+ganttrify(project = dat,
+          hide_wp = TRUE,
+          size_text_relative = 1.2, 
+          mark_quarters = TRUE,
+          project_start_date = "2022-06",
+          font_family = "Roboto Condensed")
+```
+
+
+## Body of proposal | Expected results & interpretation  
+
+
+
+## Body of proposal | Potential difficulties  
+
+
+
+## Body of proposal | Outreach, communication & engagement  
+
+
+
+## Body of proposal | Data management plan  
+
+
+
+## Body of proposal | Budget & justification  
+
+
+
+## Body of proposal | References
 
