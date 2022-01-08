@@ -180,10 +180,22 @@ ganttrify(project = dat,
 
 ## Body of proposal | Expected results & interpretation  
 
+* If the study is planned well, you should be able to describe the possible or likely outcomes
+
+> - Consider how each outcome will be interpreted (eg, support for the hypothesis or the predicted alternative)
+
+> - Outcomes that cannot be interpreted suggest a vague hypothesis or weak study design 
+
+> - Be open to the possibility that your hypothesis will not be supported, or that the data will be inconclusive
 
 
 ## Body of proposal | Potential difficulties  
 
+* What could go wrong?
+
+> - Consider contingency plans
+
+> - Can you modify the objectives or hypotheses?
 
 
 ## Body of proposal | Outreach, communication & engagement  
