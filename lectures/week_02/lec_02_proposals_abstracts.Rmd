@@ -203,7 +203,16 @@ Two levels engagement to consider:
 
 ## Outreach & communication | Scientific community
 
-How will you communicate your findings to the scientific community? Papers and conferences are typical. It may seem premature to plan but it is not. Conference travel and publications (page charges and open access fees) can be costly, so links to the budget are needed.
+* Papers and conferences are the standard means
+
+> - Conference travel & publication charges can be costly, so make sure to explicitly address these in the budget
+
+> - Graphical abstracts, videos, and social media are becoming increasingly popular
+
+
+## Animate your science
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4BF8Ef_OIg?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Outreach & communication | General public
