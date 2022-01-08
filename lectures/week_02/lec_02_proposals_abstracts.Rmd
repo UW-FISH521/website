@@ -273,11 +273,65 @@ Are there adequate resources available to the principal investigator to carry ou
 
 ## Body of proposal | Data management plan  
 
+> - Should address "data chain of custody"
+
+> - How will data entry occur (notebooks, tablets)?
+
+> - What quality assurance / quality controls (QA/QC) will you use?
+
+> - How will data be stored and backed up? 
+
+> - Will the data be made public? If so, when and where?
+
+
+## Data repositories
+
+Lots of options, including
+
+* [Zenodo](https://zenodo.org/)
+
+* [Dryad](https://datadryad.org/)
+
+* [Figshare](https://figshare.com/)
+
+* [Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/)
+
+* [DataONE](https://www.dataone.org/)
 
 
 ## Body of proposal | Budget & justification  
 
+Typical budget includes
+
+* Salaries for personnel (faculty, staff, students)
+
+> - Benefits (% of salaries; health insurance, retirement)
+
+> - Supplies (expendable)
+
+> - Equipment (boat, computer, software)
+
+> - Travel (fieldwork, visit collaborators, conferences)
+
+> - Services (shipping, contract lab fees, publication costs)
+
+> - Tuition
+
+> - Overhead (often >50%; excludes equipment & tuition)
+
+
+## Body of proposal | Budget & justification  
+
+* Budget justification should be well reasoned & clearly linked to the methods
+
+> - Often a specific target of reviewers
 
 
 ## Body of proposal | References
+
+* Judicious use of references is especially important for introducing the topic & interpreting the anticipated result
+
+> - Make sure to check your citations and references section for errors & omissions
+
+> - Using a reference manager (EndNote, Zotero) helps with this
 
