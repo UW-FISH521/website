@@ -38,3 +38,64 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > - Consider a rough title to help think about the proposal & then refine it later
 
+
+## General structure | Abstract
+
+* As with a scientific paper, it should include elements of
+
+    - introduction  
+    - methods  
+    - (anticipated) results  
+    - discussion  
+    
+> - Focus on introduction & interpretation
+
+> - Should convey that project is **important & do-able**
+
+
+## General structure | Abstract
+
+Q: When should you write the abstract?
+
+
+## General structure | Abstract
+
+Q: When should you write the abstract?
+
+A: Last!
+
+
+## General structure | Body of proposal
+
+> - Introduction  
+> - Objectives  
+> - Materials & methods  
+> - Timeline  
+> - Expected results & interpretation  
+> - Potential difficulties  
+> - Outreach, communication & engagement  
+> - Data management plan  
+> - Budget & justification  
+> - References
+
+
+## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of proposal | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
+
+<br>
+
+<div class="centered">
+Broadest perspective
+
+Progressively
+
+more
+
+specific
+</div>
+
+
+
+
