@@ -212,7 +212,7 @@ Two levels engagement to consider:
 
 ## Animate your science
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O4BF8Ef_OIg?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4BF8Ef_OIg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Outreach & communication | General public
@@ -334,4 +334,97 @@ Typical budget includes
 > - Make sure to check your citations and references section for errors & omissions
 
 > - Using a reference manager (EndNote, Zotero) helps with this
+
+
+# Message Box
+
+
+## Message box 
+
+This information is taken from [COMPASS](https://www.compassscicomm.org/), an organization that helps scientists to communicate their work and engage beyond the lab and field.
+
+
+## Message box
+
+* A *message box* helps you communicate your information in a way that resonates with your audience
+
+> - It can help you prepare for interviews with journalists or employers, plan a presentation, outline papers or lectures, prepare grant proposals, or explain what you do and why it matters to family and friends
+
+
+## Message box
+
+Begin by identifying your audience (journalist, school kids, granting agency)
+
+Here are some things you might want to know ahead of time:
+
+> - What outlets does this journalist write for and what angle do they typically take?
+
+> - Is the policymaker an elected official who answers to constituents, or an agency official who must respond to specific legislative mandates?
+
+> - What is the focus or mission of the organization or agency?
+
+> - What are the primary concerns of this community?
+
+
+## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## Message box | Issue?
+
+Identifies the overarching issue or topic that you're addressing.
+
+> - Should be very concise and clear; no more than a couple of words or a short phrase
+
+> - For example, something you'd type into a search engine
+
+
+## Message box | Problems?
+
+Broader issue that you're addressing
+
+> - Should reflect your knowledge & area of expertise
+
+> - What aspect of the *specific situation* would matter to your audience?
+
+> - Describe what you've observed & want to address
+
+> - Sets up the **So What?** section
+
+
+## Message box | So what?
+
+Perhaps the most important aspect of the message box
+
+> - What does my audience value?
+
+> - How does this information impact them or something they care about?
+
+> - What is important for them to understand about what I'm sharing (scope, time frame)?
+
+
+## Message box | Solutions?
+
+Outlines the options for solving the problem you identified
+
+> - What changes can be made to the way things currently stand?
+
+> - Who can make those changes?
+
+> - What would it take to solve the problem(s)?
+
+
+## Message box | Benefits?
+
+Benefits of addressing the **Problem?** if your **Solution?** is implemented
+
+> - Ties into the **So What?** of why your audience cares, but focuses on the positive results of taking action
+
+> - Who does this help, and how?
+
+> - What improves in the short term?
+
+> - What improves in the long term?
+
+
+## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
 
