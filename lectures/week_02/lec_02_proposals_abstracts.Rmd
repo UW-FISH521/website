@@ -469,3 +469,25 @@ Funders and journals have different requirements for length & format
 ## *Nature* summary paragraph {data-background=nature_abstract.png data-background-size=90% data-background-position="50% 60%"}
 
 
+## Abstract exercise | (no pun intended)
+
+Instructions
+
+* find your focal paper from last week's homework
+
+* dissect the abstract to identify its structure
+
+
+## Abstract exercise | Example
+
+| Sentence | Role |
+|:--:|:---|
+| 1  | introduces general problem |
+| 2  | focuses in on specific question |
+| 3  | identifies the study system & data set |
+| 4  | specifies the methods used |
+| 5  | major finding |
+| 6  | implication of results |
+
+
+
