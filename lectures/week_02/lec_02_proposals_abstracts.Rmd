@@ -1,5 +1,5 @@
 ---
-title: "Writing a scientific proposal"
+title: "Elements of a scientific proposal"
 subtitle: "Proposal writing & professional development<br>FISH 521"
 author: "Mark Scheuerell"
 date: "10 January 2022"
@@ -427,4 +427,45 @@ Benefits of addressing the **Problem?** if your **Solution?** is implemented
 
 
 ## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
+
+
+# Writing an abstract
+
+
+## Abstract
+
+As with a scientific paper, it should include elements of
+
+* Introduction  
+
+* Methods  
+
+* Results  
+
+* Discussion  
+    
+
+## Abstract | Format
+
+Funders and journals have different requirements for length & format
+
+
+## *Journal of Applied Ecology* abstract
+
+* point 1 sets the context and need for the work
+
+* point 2 indicates the approach and methods used
+
+* points 3-4 outline the main results
+
+* last point identifies the wider implications and relevance to management or policy
+
+"The final point is the most important of all in maximising the impact of the paper. It should synthesise the paper's key messages and should be generic, seminal and accessible to non-specialists."
+
+
+## *Journal of<br>Applied<br>Ecology* {data-background=scheuerell.png data-background-size=60% data-background-position="85% 50%"}
+
+
+## *Nature* summary paragraph {data-background=nature_abstract.png data-background-size=90% data-background-position="50% 60%"}
+
 
