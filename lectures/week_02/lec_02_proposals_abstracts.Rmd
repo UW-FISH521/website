@@ -1,0 +1,40 @@
+---
+title: "Writing a scientific proposal"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "10 January 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General structure | 3 important pieces
+
+1. Title
+
+2. Abstract
+
+3. Body
+
+    - text / narrative  
+    - figures / tables  
+    - references  
+    - budget
+
+
+## General structure | Title
+
+* Must get the attention of a wide but appropriate range of potential readers.
+
+> - Who is the target audience? What is the funding source? Related to species, region, habitat, taxa?
+
+> - Need not be formal but avoid getting too cute
+
+> - Pros and cons of being specific and general
+
+> - Consider a rough title to help think about the proposal & then refine it later
+
