@@ -472,6 +472,25 @@ As with a scientific paper, it should include elements of
 * Discussion  
     
 
+## Abstract
+
+Typical information found in most abstracts:
+
+* **context** for your research
+
+> - the **central question(s)** or **problem** your research addresses
+
+> - what **previous research** has done or shown
+
+> - the **main goals** for your research
+
+> - your field, lab and/or analytical **methods**
+
+> - your **main findings**
+
+> - the **implications** of your findings or arguments
+
+
 ## Abstract | Format
 
 Funders and journals have different requirements for length & format
