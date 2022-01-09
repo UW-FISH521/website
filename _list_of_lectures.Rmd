@@ -24,9 +24,9 @@ proposals <- list(
   title = "Structuring a proposal",
   topics = c("Structuring a proposal", "Using a message box", "Writing an abstract"),
   pdf = c(""),
-  rmd = c(""),
-  html = c(""),
-  background = c(""),
+  rmd = c("lectures/week_02/lec_02_proposals_abstracts.Rmd"),
+  html = c("lectures/week_02/lec_02_proposals_abstracts.html"),
+  background = c("[Message Box](references/message_box.pdf)", "[Nature abstract](references/nature_summary_paragraph.pdf)"),
   zoom = ""
 )
 
