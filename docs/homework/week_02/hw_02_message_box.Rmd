@@ -1,0 +1,37 @@
+---
+title: "Using a Message Box"
+subtitle: "Homework #2"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "10 January 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: false
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Task 1
+
+Complete a message box for *any* issue aimed at *any* audience. This could be something related to your (intended) research, a hobby, a socio-political issue you're passionate about, etc. 
+
+
+## Task 2
+
+Complete a message box with the intention of targeting a granting agency (ie, the "audience") for funding to support *any* aspect of your graduate studies. If the specifics of your project are still uncertain, feel free to address another issue you find particularly interesting or important.
+
+
+### Submitting your assignment
+
+You have 2 options for submitting this assignment:
+
+* print a message box, fill it out in pencil/ink, scan it or take a picture of it, and then email it to Mark
+
+* write out each of the sections in a Word or Google doc, and then send the doc (or link) to Mark
