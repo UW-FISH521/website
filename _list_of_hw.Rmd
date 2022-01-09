@@ -25,7 +25,7 @@ message_box <- list(
   topics = c("Message boxes"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_02/hw_02_message_box.html",
   due_date = "18 Jan",
   percent = "5%"
 )
