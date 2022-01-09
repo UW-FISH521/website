@@ -329,6 +329,8 @@ Lots of options, including
 
 * Judicious use of references is especially important for introducing the topic & interpreting the anticipated result
 
+> - Make sure a given reference is germane to point being made
+
 > - Make sure to check your citations and references section for errors & omissions
 
 > - Using a reference manager (EndNote, Zotero) helps with this
