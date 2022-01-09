@@ -1,0 +1,520 @@
+---
+title: "Elements of a scientific proposal"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "10 January 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General structure | 3 important pieces
+
+1. Title
+
+2. Abstract
+
+3. Body
+
+    - text / narrative  
+    - figures / tables  
+    - references  
+    - budget
+
+
+## General structure | Title
+
+* Must get the attention of a wide but appropriate range of potential readers.
+
+> - Who is the target audience? What is the funding source? Related to species, region, habitat, taxa?
+
+> - Need not be formal but avoid getting too cute
+
+> - Pros and cons of being specific and general
+
+> - Consider a rough title to help think about the proposal & then refine it later
+
+
+## General structure | Abstract
+
+* As with a scientific paper, it should include elements of
+
+    - introduction  
+    - methods  
+    - (anticipated) results  
+    - discussion  
+    
+> - Focus on introduction & interpretation
+
+> - Should convey that project is **important & do-able**
+
+
+## General structure | Abstract
+
+Q: When should you write the abstract?
+
+
+## General structure | Abstract
+
+Q: When should you write the abstract?
+
+A: Last!
+
+
+## General structure | Body of proposal
+
+> - Introduction  
+> - Objectives  
+> - Materials & methods  
+> - Timeline  
+> - Expected results & interpretation  
+> - Potential difficulties  
+> - Outreach & communication  
+> - Data management plan  
+> - Budget & justification  
+> - References
+
+
+## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of proposal | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
+
+<br>
+
+<div class="centered">
+Broadest perspective
+
+Progressively
+
+more
+
+specific
+</div>
+
+
+## Body of proposal | Objectives
+
+Most critical part
+
+* helps the writer organize thoughts  
+
+> - tells the reader what to expect
+    
+
+## Body of proposal | Objectives
+
+Consider a two-step approach
+
+1. "The overall goal of this study is to..."  
+
+2. "Specifically, I will test the following three hypotheses..."
+
+
+## Body of proposal | Objectives
+
+* Begin with general questions
+
+> - End with specific hypotheses/predictions
+
+> - Avoid statements like "will be different" or "will show a pattern"
+
+
+## Body of proposal | Materials & methods
+
+* Use enough detail that a reader could essentially duplicate the study (or envision it accurately)
+
+> - Provide important details & omit irrelevant ones
+
+> - Sub-headings can be a useful way to organize the section (eg, "Field study", "Data analysis")
+
+
+## Body of proposal | Timeline {data-background=fortune.png data-background-size=60% data-background-position="50% 70%"}
+
+
+
+## Body of proposal | Timeline
+
+Outline *what* will happen & *when* it will happen
+
+> - Should mirror elements of methods section
+
+> - Should also include time for writing
+
+
+## Body of proposal | Timeline
+
+* Gantt charts are a great way to show a timeline
+
+* Can use Excel or many R packages (eg, `{gantrify}`)
+
+
+## Gantt chart
+
+```{r gantt}
+library("ganttrify")
+
+dat <- data.frame(wp = LETTERS[1:4],
+                  activity = c("Collect data", "Analyze data",
+                               "Outreach", "Write report"),
+                  start_date = c(1, 4, 7, 10),
+                  end_date = c(5, 7, 9, 12))
+ganttrify(project = dat,
+          hide_wp = TRUE,
+          size_text_relative = 1.2, 
+          mark_quarters = TRUE,
+          project_start_date = "2022-06",
+          font_family = "Roboto Condensed")
+```
+
+
+## Body of proposal | Expected results & interpretation  
+
+* If the study is planned well, you should be able to describe the possible or likely outcomes
+
+> - Consider how each outcome will be interpreted (eg, support for the hypothesis or the predicted alternative)
+
+> - Outcomes that cannot be interpreted suggest a vague hypothesis or weak study design 
+
+> - Be open to the possibility that your hypothesis will not be supported, or that the data will be inconclusive
+
+
+## Body of proposal | Potential difficulties  
+
+What could go wrong?
+
+> - Consider contingency plans
+
+> - Can you modify the objectives or hypotheses?
+
+
+## Body of proposal | Outreach, communication & engagement  
+
+Two levels engagement to consider:
+
+1. Scientific community
+
+2. General public
+
+
+## Outreach & communication | Scientific community
+
+* Papers and conferences are the standard means
+
+> - Conference travel & publication charges can be costly, so make sure to explicitly address these in the budget
+
+> - Graphical abstracts, videos, and social media are becoming increasingly popular
+
+
+## Animate your science
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4BF8Ef_OIg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Outreach & communication | General public
+
+* So-called "broader impacts" strengthen the relationship between the science community and society
+
+* This is an increasingly important aspect of grant proposals
+
+
+## Broader Impacts | Evaluation criteria at NSF
+
+What is the potential for the proposed activity to benefit society or advance desired societal outcomes?
+
+> - Match your strategy to the target community
+
+> - For example, if you are planning for outreach at elementary schools, you will need to package your research into products children can understand.
+
+
+## Broader Impacts | Evaluation criteria at NSF
+
+To what extent do the proposed activities suggest and explore creative, original or potentially transformative concepts?
+
+> - Describe how you will expand on known, effective strategies and give examples of successful ones
+
+> - For example, hands-on, project-based learning enhances student performance, increases motivation and engagement, and develops critical thinking.
+
+
+## Broader Impacts | Evaluation criteria at NSF
+
+Is the plan for carrying out the proposed activities well-reasoned, well-organized and based on sound rationale?
+
+> - Develop your Broader Impacts plan in the same way you develop the rationale for your research activities, including an evaluation plan.
+
+> - For example, how will you gauge the success of engaging an elementary school audience?
+
+
+## Broader Impacts | Evaluation criteria at NSF
+
+How well qualified is the individual / team / institution to conduct the proposed activities?
+
+> - Play to your strengths
+
+> - For example, if you have a talent for creating games, perhaps you could create a game about a food web that exemplifies your research on the interaction of different fish species.
+
+> - Think outside the box
+
+> - For example, perhaps there is someone in the education department that would make a good collaborator.
+
+
+## Broader Impacts | Evaluation criteria at NSF
+
+Are there adequate resources available to the principal investigator to carry out the proposed activities?
+
+> - Make sure to describe what resources you have
+
+> - Make sure to budget for broader impacts activities
+
+
+## Body of proposal | Data management plan  
+
+> - Should address "data chain of custody"
+
+> - How will data entry occur (notebooks, tablets)?
+
+> - What quality assurance & quality controls (QA/QC) will you use?
+
+> - How will data be stored and backed up? 
+
+> - Will the data be made public? If so, when and where?
+
+
+## Data repositories
+
+Lots of options, including
+
+* [Zenodo](https://zenodo.org/)
+
+* [Dryad](https://datadryad.org/)
+
+* [Figshare](https://figshare.com/)
+
+* [Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/)
+
+* [DataONE](https://www.dataone.org/)
+
+
+## Body of proposal | Budget & justification  
+
+* Salaries for personnel (faculty, staff, students)
+
+> - Benefits (% of salaries; health insurance, retirement)
+
+> - Supplies (expendable)
+
+> - Equipment (boat, computer, software)
+
+> - Travel (fieldwork, visit collaborators, conferences)
+
+> - Services (shipping, contract lab fees, publication costs)
+
+> - Tuition
+
+> - Overhead (often >50%; excludes equipment & tuition)
+
+
+## Body of proposal | Budget & justification  
+
+* Budget justification should be well reasoned & clearly linked to the methods
+
+> - Often a specific target of reviewers, so make sure to give this some real thought
+
+
+## Body of proposal | References
+
+* Judicious use of references is especially important for introducing the topic & interpreting the anticipated result
+
+> - Make sure a given reference is germane to point being made
+
+> - Make sure to check your citations and references section for errors & omissions
+
+> - Using a reference manager (EndNote, Zotero) helps with this
+
+
+# Message Box
+
+
+## Message box 
+
+This information is taken from [COMPASS](https://www.compassscicomm.org/), an organization that helps scientists to communicate their work and engage beyond the lab and field.
+
+
+## Message box
+
+* A *message box* helps you communicate your information in a way that resonates with your audience
+
+> - It can help you prepare for interviews with journalists or employers, plan a presentation, outline papers or lectures, prepare grant proposals, or explain what you do and why it matters to family and friends
+
+
+## Message box
+
+Begin by identifying your audience (journalist, school kids, granting agency)
+
+Here are some things you might want to know ahead of time:
+
+> - What outlets does this journalist write for and what angle do they typically take?
+
+> - Is the policymaker an elected official who answers to constituents, or an agency official who must respond to specific legislative mandates?
+
+> - What is the focus or mission of the organization or agency?
+
+> - What are the primary concerns of this community?
+
+
+## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## Message box | Issue?
+
+Identifies the overarching issue or topic that you're addressing.
+
+> - Should be very concise and clear; no more than a couple of words or a short phrase
+
+> - For example, something you'd type into a search engine
+
+
+## Message box | Problems?
+
+Broader issue that you're addressing
+
+> - Should reflect your knowledge & area of expertise
+
+> - What aspect of the *specific situation* would matter to your audience?
+
+> - Describe what you've observed & want to address
+
+> - Sets up the **So What?** section
+
+
+## Message box | So what?
+
+Perhaps the most important aspect of the message box
+
+> - What does my audience value?
+
+> - How does this information impact them or something they care about?
+
+> - What is important for them to understand about what I'm sharing (scope, time frame)?
+
+
+## Message box | Solutions?
+
+Outlines the options for solving the problem you identified
+
+> - What changes can be made to the way things currently stand?
+
+> - Who can make those changes?
+
+> - What would it take to solve the problem(s)?
+
+
+## Message box | Benefits?
+
+Benefits of addressing the **Problem?** if your **Solution?** is implemented
+
+> - Ties into the **So What?** of why your audience cares, but focuses on the positive results of taking action
+
+> - Who does this help, and how?
+
+> - What improves in the short term?
+
+> - What improves in the long term?
+
+
+## &nbsp; {data-background=hill_message.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## Message box | Practice & refinement
+
+Crafting a meaningful and impactful message takes practice
+
+> - Work with a friend or colleague to refine your message
+
+
+## &nbsp; {data-background=zeller_init.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## &nbsp; {data-background=zeller_final.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## In-class exercise
+
+* Work in groups of 3-4 people
+
+* Spend 10 minutes working on your message; issue can be *anything* you'd like
+
+* Each person gets 2 minutes to present their message box
+
+* Group gives concrete, constructive feedback for ~5 min each
+
+
+## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
+
+
+# Writing an abstract
+
+
+## Abstract
+
+As with a scientific paper, it should include elements of
+
+* Introduction  
+
+* Methods  
+
+* Results  
+
+* Discussion  
+    
+
+## Abstract | Format
+
+Funders and journals have different requirements for length & format
+
+
+## *Journal of Applied Ecology* abstract
+
+* point 1 sets the context and need for the work
+
+* point 2 indicates the approach and methods used
+
+* points 3-4 outline the main results
+
+* last point identifies the wider implications and relevance to management or policy
+
+"The final point is the most important of all in maximising the impact of the paper. It should synthesise the paper's key messages and should be generic, seminal and accessible to non-specialists."
+
+
+## *Journal of<br>Applied<br>Ecology* {data-background=scheuerell.png data-background-size=60% data-background-position="85% 50%"}
+
+
+## *Nature* summary paragraph {data-background=nature_abstract.png data-background-size=90% data-background-position="50% 60%"}
+
+
+## Abstract exercise | (no pun intended)
+
+Instructions
+
+* Find your focal paper from last week's homework
+
+* Dissect the abstract to identify its structure
+
+
+## Abstract exercise | Example
+
+| Sentence | Role |
+|:--:|:---|
+| 1  | introduces general problem |
+| 2  | focuses in on specific question |
+| 3  | identifies the study system & data set |
+| 4  | specifies the methods used |
+| 5  | major finding |
+| 6  | implication of results |
+
+
+
