@@ -110,9 +110,9 @@ Most critical part
 
 Consider a two-step approach
 
-1. The overall goal of this study is to...  
+1. "The overall goal of this study is to..."  
 
-2. Specifically, I will test the following three hypotheses
+2. "Specifically, I will test the following three hypotheses..."
 
 
 ## Body of proposal | Objectives
@@ -277,7 +277,7 @@ Are there adequate resources available to the principal investigator to carry ou
 
 > - How will data entry occur (notebooks, tablets)?
 
-> - What quality assurance / quality controls (QA/QC) will you use?
+> - What quality assurance & quality controls (QA/QC) will you use?
 
 > - How will data be stored and backed up? 
 
@@ -301,8 +301,6 @@ Lots of options, including
 
 ## Body of proposal | Budget & justification  
 
-Typical budget includes
-
 * Salaries for personnel (faculty, staff, students)
 
 > - Benefits (% of salaries; health insurance, retirement)
@@ -324,7 +322,7 @@ Typical budget includes
 
 * Budget justification should be well reasoned & clearly linked to the methods
 
-> - Often a specific target of reviewers
+> - Often a specific target of reviewers, so make sure to give this some real thought
 
 
 ## Body of proposal | References
@@ -426,6 +424,33 @@ Benefits of addressing the **Problem?** if your **Solution?** is implemented
 > - What improves in the long term?
 
 
+## &nbsp; {data-background=hill_message.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## Message box | Practice & refinement
+
+Crafting a meaningful and impactful message takes practice
+
+> - Work with a friend or colleague to refine your message
+
+
+## &nbsp; {data-background=zeller_init.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## &nbsp; {data-background=zeller_final.png data-background-size=90% data-background-position="50% 50%"}
+
+
+## In-class exercise
+
+* Work in groups of 3-4 people
+
+* Spend 10 minutes working on your message; issue can be *anything* you'd like
+
+* Each person gets 2 minutes to present their message box
+
+* Group gives concrete, constructive feedback for ~5 min each
+
+
 ## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
 
 
@@ -473,9 +498,9 @@ Funders and journals have different requirements for length & format
 
 Instructions
 
-* find your focal paper from last week's homework
+* Find your focal paper from last week's homework
 
-* dissect the abstract to identify its structure
+* Dissect the abstract to identify its structure
 
 
 ## Abstract exercise | Example
