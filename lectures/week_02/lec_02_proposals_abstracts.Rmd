@@ -450,7 +450,7 @@ Crafting a meaningful and impactful message takes practice
 
 * Each person gets 2 minutes to present their message box
 
-* Group gives concrete, constructive feedback for ~5 min each
+* Group gives concrete, constructive feedback for ~3 min each
 
 
 ## &nbsp; {data-background=msg_box.png data-background-size=90% data-background-position="50% 50%"}
