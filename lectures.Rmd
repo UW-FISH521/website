@@ -9,7 +9,7 @@ output: html_document
 
 <br>
 
-#### To advance the slide deck, use the arrow keys on your keyboard. You can also print the slides to a pdf by selecting the "print" option from your browser's menu.
+#### To navigate through a slide deck, use the arrow keys on your keyboard to go forward or backwards. Pressing the "o" key on any slide will show you an overview of the slides, which you can then move through with the arrow keys. You can also print the slides to a pdf by selecting the "print" option from your browser's menu.
 
 
 ```{r child = "_timeline.Rmd", include=FALSE}
