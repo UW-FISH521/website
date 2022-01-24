@@ -44,7 +44,7 @@ holiday_1 <- list(
 ## week 4 ####
 papers <- list(
   title = "Structuring a manuscript",
-  topics = c("Structuring a manuscript", "Authorship & contributions", "Supplementary material & reproducibility"),
+  topics = c("Manuscript life cycles", "Authorship & contributions", "Manuscript structure"),
   pdf = c(""),
   rmd = c("lectures/week_04/lec_03_manuscripts.Rmd"),
   html = c("lectures/week_04/lec_03_manuscripts.html"),
@@ -57,7 +57,7 @@ papers <- list(
 ## week 5 ####
 submission <- list(
   title = "Submitting a manuscript",
-  topics = c("Submitting a manuscript", "Choosing a journal & author guidelines", "Writing a cover letter"),
+  topics = c("Submitting a manuscript", "Choosing a journal & author guidelines", "Writing a cover letter", "Supplementary material & reproducibility"),
   pdf = c(""),
   rmd = c(""),
   html = c(""),
