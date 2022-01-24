@@ -20,35 +20,31 @@ knitr::opts_chunk$set(echo = FALSE)
 > - The general flow goes something like the following
 
 
-## Process of publishing 
+## Process of publishing | A. Someone takes the lead
 
-A. Someone takes the lead
+> - point person for communication
 
-> - Point person for communication
-
-> - Keeps others on task and on time
+> - keeps others on task and on time
 
 
-## Process of publishing 
+## Process of publishing | B. Co-authors are chosen<sup>*</sup>
 
-B. Co-authors are chosen<sup>*</sup>
+> - begin this process **early**
 
-> - Begin this process **early**
+> - communication is key
 
-> - Communication is key
-
-> - Consult journal guidelines
+> - consult journal guidelines
 
 > - Err on the side of inclusion
 
-> - Value diversity
+> - value diversity
 
-> - Document contributions
+> - document contributions
+
+> - <sup>*</sup>this can be an (r)evolving process
 
 
-## Process of publishing 
-
-2. A journal is chosen based upon
+## Process of publishing | C. A journal is chosen based upon
 
 > - topic
 
@@ -56,27 +52,156 @@ B. Co-authors are chosen<sup>*</sup>
 
 > - reputation or impact factor
 
-> - cost
+> - cost; open access (OA) journals can be $3000+ per article
 
 
-## Process of publishing 
+## Process of publishing | D. Collaboration platform is agreed upon
 
-3. Tasks are assigned
+> - eg, Google Doc, Dropbox, GitHub, email
 
-> - may involve analysis, production of figures & tables, writing
-
-
-## Process of publishing 
-
-3. Leader drafts an outline, decides how to focus it, chooses an appropriate target journal (or vice versa)
+> - **think hard** about the pros & cons
 
 
-Pieces get produced and assembled
+## Process of publishing | E. Tasks are assigned
+
+> - typically involve analysis, production of figures & tables, writing
+
+> - contributions can also be conceptual, funding, etc
 
 
-Drafts get circulated among all co-authors
+## Process of publishing | F. Writing begins
 
-The final version is uploaded to a journal’s website (pick a journal and explore this process – it is not trivial)
+> - journal guidelines are consulted
+
+> - leader drafts an outline & shares with everyone
+
+> - draft figs & tables are produced & shared
+
+> - all authors draft their respective sections & share
+
+> - **deadlines are established & met**
+
+> - the process repeats
+
+
+## Process of publishing | G. Pre-submission review
+
+> - many of you will have co-authors on papers (and presentations) from government agencies
+
+> - these people typically need to get approval from their agency **before the paper can be submitted or published**
+
+> - getting other opinions can be very helpful & informative
+
+
+## Process of publishing | H. Journal submission
+
+> - draft a cover letter to editor-in-chief
+
+> - consult the journal online system
+
+> - gather required documents & information
+
+> - [optional] choose a subject matter editor
+
+> - suggest (exclude) possible reviewers
+
+
+## Process of publishing | I. Journal review
+
+> - editor-in-chief (EIC) gives paper quick read & decides to have it peer reviewed or rejected outright
+
+> - "desk rejection" may owe to wrong scope or poor scholarship; following journal guidelines reduces the odds of this
+
+> - paper assigned to associate editor who finds reviewers
+
+> - reviewers are often neglected, overdue & rushed (this can take months)
+
+> - associate editor summarizes reviews, adds their own comments & makes recommendation to EIC
+
+> - EIC makes final decision
+
+
+## Process of publishing | Aside: journal decisions
+
+> - accept with minor revisions
+
+> - accept with major revisions
+
+> - reject
+
+> - **BEWARE**: reviewer comments can be blunt, unnecessarily degrading & utterly demoralizing
+
+> - ask your advisor about their approach / policy
+
+
+## Process of publishing | J. Revising & resubmitting
+
+> - if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+> - lead author writes cover letter summarizing and detailing changes made
+
+> - should reference & address every comment point-by-point; be as polite & flattering as possible
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 7 L 21-23: Here the authors say they used data from 3 sites, but the first paragraph of the methods section mentions 4 sites were sampled. Why was one of the sites excluded?*
+
+We thank the reviewer for catching what was an error on our part. We did, in fact, use the data from all 4 sites and have made the appropriate edit to the sentence.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 13 L 11-12: It's simply absurd to think that an increase in water temperature of 1.9 degrees C could elicit the change in growth you observed.*
+
+Our findings are very much in line with previous studies showing the effect of temperatuure on growth. For example, the reference we cited (Smith 2020) presents rather compelling evidence that a difference of only 1.5 degrees C increased growth by 20%.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 9 L 4-6: It would seem that in addition to the growth study, the authors could also add an analysis of the diet data to examine possible relationships between shifts in composition accompanied the observed changes in growth.*
+
+We agree with the reviewer that such an analysis could reveal some interesting patterns, but it is simply out of scope for this project given the resources and time required to undertake it.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+* if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+* lead author writes letter summarizing and detailing changes made
+
+* should reference & address every comment point-by-point; be as polite & flattering as possible
+
+> - note that you *do not* have to agree with everything, but you do need to justify everything
+
+> - this process can take a long time; ask for an extension if you need one
+
+
+## Process of publishing | K. Acceptance
+
+> - after everyone has agreed that the manuscript is acceptable it moves to production
+
+> - pdf's of page proofs are produced & sent to the lead author
+
+> - these should be scrutinized carefully, changes made & returned quickly (<1 week)
+
+> - paper is typically available online in advance of its paper publication
+
+
+## Process of publishing | L. Rejection
+
+> - if rejected, you could rebut the decision, but you must have a very compelling case
+
+> - for example, a reviewer who clearly lacked domain knowledge
+
+> - most often, people move on to the next journal on their list
+
 
 
 # Manuscript structure
