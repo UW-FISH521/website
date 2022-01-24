@@ -299,27 +299,25 @@ Undergrad C does a really nice job working on a data set that no one else was wo
 
 * Must get the attention of a wide but appropriate range of potential readers.
 
-> - Who is the target audience? Related to species, region, habitat, taxa?
+> - who is the target audience? Related to species, region, habitat, taxa?
 
-> - Need not be formal but avoid getting too cute
+> - need not be formal but avoid getting too cute
 
-> - Pros and cons of being specific and general
+> - pros and cons of being specific and general
 
-> - Consider a rough title to help think about the proposal & then refine it later
+> - consider a rough title to help think about the proposal & then refine it later
 
 
 ## Manuscript structure | Abstract
 
-* As with a scientific paper, it should include elements of
+* As with a proposal, it should include elements of
 
     - introduction  
     - methods  
     - (anticipated) results  
     - discussion  
-    
-> - Focus on introduction & interpretation
 
-> - Should convey that project is **important & do-able**
+> - Pay close attention to journal guidelines
 
 
 ## Manuscript structure | Body
@@ -332,7 +330,13 @@ Undergrad C does a really nice job working on a data set that no one else was wo
 
 > - Discussion
 
+> - Acknowledgments
+
+> - Data availability
+
 > - References
+
+> - Appendices & supplements
 
 
 ## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
@@ -351,5 +355,116 @@ more
 
 specific
 </div>
+
+
+## Body of proposal | Methods
+
+* Use enough detail that a reader could essentially replicate the study, or envision it accurately
+
+> - Provide important details but omit irrelevant ones; relevance depends on the objectives
+
+> - Avoid a step by step description (eg, "First we drove to the river, then we were given instructions, and then..."
+
+> - Sub-headings can be useful (eg, Study site, Species, Statistical models)
+
+> - Figures (schematics) can be useful for showing process(es)
+
+
+## Body of proposal | Results
+
+* Narrative should stand on its own with support from figures & tables
+
+> - Begin with most notable (exciting) result
+
+> - Avoid explicit statements about where to find results
+
+
+## Body of proposal | Results
+
+"We found a significant positive relationship between nitrogen concentration and algal growth (Figure 2)."
+
+versus
+
+"Figure 2 shows the relationship between nitrogen concentration and algal growth."
+
+
+## Body of proposal | Results
+
+* Figures are meant to provide an overall summary of findings
+
+> - Consider carefully the use of colors, lines & shapes
+
+> - Include as much info as necessary (allowed) to facilitate intepretation
+
+> - Captions should describe "what" and not "why" or "how"
+
+
+## Body of proposal | Results
+
+* Tables are meant to provide detailed summaries of findings
+
+> - eg, statistical analyses, sample collections
+
+> - Captions should describe columns & rows with sufficient detail
+
+
+## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of proposal | Discussion {data-background=triangle_inverted.png data-background-size=60% data-background-position="50% 50%"}
+
+<br><br>
+
+<div class="centered">
+Specific findings
+
+Interpretation
+
+In light of other studies
+
+Implications & next steps
+</div>
+
+
+## Body of proposal | Acknowledgments
+
+* Who and what gets acknowledged?
+
+> - sources of financial support, which is courteous and ethical
+
+> - failure to do so may raise ethical conflicts
+
+> - those who provided direct "hands-on" help in the lab & field, and those who provided ideas, editorial help, analyses of data, etc
+
+> - do not thank family, friends & idols for moral support, love & inspiration
+
+> - consider carefully the line between authorship & acknowledgment
+
+
+## Body of proposal | Data availability
+
+* Journals are increasingly requiring data (and code) to be made publicly available
+
+> - decide when & where they will be made available
+
+
+## Body of proposal | References
+
+* Judicious use of references is especially important for introducing the topic & interpreting the anticipated result
+
+> - Make sure a given reference is germane to point being made
+
+> - Make sure to check your citations and references section for errors & omissions
+
+> - Using a reference manager (EndNote, Zotero) helps with this
+
+
+## Body of proposal | Appendices & supplements 
+
+* Additional material may be germane to your study, but does not warrant inclusion in main body
+
+> - careful consideration should be given to what and how material is included
+
+> - including code to replicate study aids review & increases your odds of acceptance
 
 
