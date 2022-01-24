@@ -1,0 +1,488 @@
+---
+title: "Publishing a scientific paper"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "24 January 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Science is a process
+
+* Publishing is part of the process
+
+> - The general flow goes something like the following
+
+
+## Process of publishing | A. Someone takes the lead
+
+> - point person for communication
+
+> - keeps others on task and on time
+
+
+## Process of publishing | B. Co-authors are chosen<sup>*</sup>
+
+> - begin this process **early**
+
+> - communication is key
+
+> - consult journal guidelines
+
+> - Err on the side of inclusion
+
+> - value diversity
+
+> - document contributions
+
+> - <sup>*</sup>this can be an (r)evolving process
+
+
+## Process of publishing | C. A journal is chosen based upon
+
+> - topic
+
+> - audience
+
+> - reputation or impact factor
+
+> - cost; open access (OA) journals can be $3000+ per article
+
+
+## Process of publishing | D. Collaboration platform is agreed upon
+
+> - eg, Google Doc, Dropbox, GitHub, email
+
+> - **think hard** about the pros & cons
+
+
+## Process of publishing | E. Tasks are assigned
+
+> - typically involve analysis, production of figures & tables, writing
+
+> - contributions can also be conceptual, funding, etc
+
+
+## Process of publishing | F. Writing begins
+
+> - journal guidelines are consulted
+
+> - leader drafts an outline & shares with everyone
+
+> - draft figs & tables are produced & shared
+
+> - all authors draft their respective sections & share
+
+> - **deadlines are established & met**
+
+> - the process repeats
+
+
+## Process of publishing | G. Pre-submission review
+
+> - many of you will have co-authors on papers (and presentations) from government agencies
+
+> - these people typically need to get approval from their agency **before the paper can be submitted or published**
+
+> - getting other opinions can be very helpful & informative
+
+
+## Process of publishing | H. Journal submission
+
+> - draft a cover letter to editor-in-chief
+
+> - consult the journal online system
+
+> - gather required documents & information
+
+> - [optional] choose a subject matter editor
+
+> - suggest (exclude) possible reviewers
+
+
+## Process of publishing | I. Journal review
+
+> - editor-in-chief (EIC) gives paper quick read & decides to have it peer reviewed or rejected outright
+
+> - "desk rejection" may owe to wrong scope or poor scholarship; following journal guidelines reduces the odds of this
+
+> - paper assigned to associate editor who finds reviewers
+
+> - reviewers are often neglected, overdue & rushed (this can take months)
+
+> - associate editor summarizes reviews, adds their own comments & makes recommendation to EIC
+
+> - EIC makes final decision
+
+
+## Process of publishing | Aside: journal decisions
+
+> - accept with minor revisions
+
+> - accept with major revisions
+
+> - reject
+
+> - **BEWARE**: reviewer comments can be blunt, unnecessarily degrading & utterly demoralizing
+
+> - ask your advisor about their approach / policy
+
+
+## Process of publishing | J. Revising & resubmitting
+
+> - if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+> - lead author writes cover letter summarizing and detailing changes made
+
+> - should reference & address every comment point-by-point; be as polite & flattering as possible
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 7 L 21-23: Here the authors say they used data from 3 sites, but the first paragraph of the methods section mentions 4 sites were sampled. Why was one of the sites excluded?*
+
+We thank the reviewer for catching what was an error on our part. We did, in fact, use the data from all 4 sites and have made the appropriate edit to the sentence.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 13 L 11-12: It's simply absurd to think that an increase in water temperature of 1.9 degrees C could elicit the change in growth you observed.*
+
+Our findings are very much in line with previous studies showing the effect of temperatuure on growth. For example, the reference we cited (Smith 2020) presents rather compelling evidence that a difference of only 1.5 degrees C increased growth by 20%.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+Example
+
+*P 9 L 4-6: It would seem that in addition to the growth study, the authors could also add an analysis of the diet data to examine possible relationships between shifts in composition accompanied the observed changes in growth.*
+
+We agree with the reviewer that such an analysis could reveal some interesting patterns, but it is simply out of scope for this project given the resources and time required to undertake it.
+
+
+## Process of publishing | J. Revising & resubmitting
+
+* if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+* lead author writes letter summarizing and detailing changes made
+
+* should reference & address every comment point-by-point; be as polite & flattering as possible
+
+> - note that you *do not* have to agree with everything, but you do need to justify everything
+
+> - this process can take a long time; ask for an extension if you need one
+
+
+## Process of publishing | K. Acceptance
+
+> - after everyone has agreed that the manuscript is acceptable it moves to production
+
+> - pdf's of page proofs are produced & sent to the lead author
+
+> - these should be scrutinized carefully, changes made & returned quickly (<1 week)
+
+> - paper is typically available online in advance of its paper publication
+
+
+## Process of publishing | L. Rejection
+
+> - if rejected, you could rebut the decision, but you must have a very compelling case
+
+> - for example, a reviewer who clearly lacked domain knowledge
+
+> - most often, people move on to the next journal on their list
+
+
+# Authorship exercise
+
+
+## Authorship exercise | Scenario 1
+
+Professor X and new graduate student Y are developing a research project for Y. Y is interested in a project that Z, a graduate student colleague/professor in the department, is conducting. Y discusses project concepts with X, and decides to conduct a project descended from and closely related to Z's project. The questions, methods, and analysis were developed solely by X and Y, and all physical work was conducted by Y. Y and Z met a few times to discuss methods for analysis, but Z contributed nothing to manuscript preparation.
+
+* Should Z be included as an author?
+
+* Who should be first author?
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 25% of respondents thought that Z deserved authorship
+
+* 84% of respondents indicated that Y should be first author, whereas 16% of respondents indicated that X deserved to be the first author
+
+
+## Authorship exercise | Scenario 2
+
+Principal Investigator X developed the intellectual ideas, wrote a proposal, and received monies for a new, well-funded project. X hires technician T to handle project logistics, and to ensure that the project follows X's original vision; T collects much of the empirical data, and supervises undergraduate students who assist during data collection. Research assistant A is responsible for manipulation, analysis, and interpretation of data collected by T et al.
+
+* Who should be included as an author, and in what order?
+
+* Who should be the first author?
+
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 78% of respondents thought all three characters should be included as authors
+
+* 78% chose X as first author
+
+* 14% chose A as first author
+
+* 82% included T as an author
+
+* Respondents listed 10 unique combinations for authorship order
+
+
+## Authorship exercise | Scenario 3
+
+Professor X initiates writing of a synthesis paper with graduate student Y on their favorite topic. After the two meet several times to outline a paper, Y takes the task of writing the first draft. X and Y pass the manuscript back and forth several times before X does the final revision and submits the manuscript for publication.
+
+* Who should be the first author?
+
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 46% of respondents thought that X should be the first author
+
+* 46% thought that Y should be the first author
+
+* 8% could not decide
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+A project involves data collected as part of a routine monitoring program funded by public taxes and the data can be downloaded freely. Although the data did not involve any specific project, you discover some seemingly important patterns that apply to a particular interest of yours. Is there an obligation to determine who initiated the specific study or can the data be simply used?
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+A faculty member is coming up for promotion and insists on being first author on a paper from a graduate student’s dissertation. Does the student object and come into conflict with the supervisor, who will be relied upon for letters of reference and other forms of professional support, or say nothing and not get appropriate credit for the work?
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+Undergrad C does a really nice job working on a data set that no one else was working on but that had been collected by some agency. Faculty member D supervised C and was closely involved in the project. C graduates, gets a job, moves away, and the project stalls. D moves it along, making many rounds of edits, revisions, fixing graphs, getting references, etc. When it is ready to submit to a journal, does D include C as second author, as first, or neither? Does the decision to list C and the order or authorship depend on how involved C was in the final stages of preparation, or not?
+
+
+# Manuscript structure
+
+## Manuscript structure | 3 important pieces
+
+1. Title
+
+2. Abstract
+
+3. Body
+
+    - text / narrative  
+    - figures / tables  
+    - references  
+    
+
+## Manuscript structure | Title
+
+* must get the attention of a wide but appropriate range of potential readers.
+
+> - who is the target audience? Related to species, region, habitat, taxa?
+
+> - need not be formal but avoid getting too cute
+
+> - pros and cons of being specific and general
+
+> - consider a rough title to help think about the proposal & then refine it later
+
+
+## Manuscript structure | Abstract
+
+* as with a proposal, it should include elements of
+
+    - introduction  
+    - methods  
+    - (anticipated) results  
+    - discussion  
+
+> - pay close attention to journal guidelines
+
+
+## Manuscript structure | Body
+
+* Introduction  
+
+> - Materials & methods  
+
+> - Results
+
+> - Discussion
+
+> - Acknowledgments
+
+> - Data availability
+
+> - References
+
+> - Appendices & supplements
+
+
+## Body of manuscript | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of manuscript | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
+
+<br>
+
+<div class="centered">
+Broadest perspective
+
+Progressively
+
+more
+
+specific
+</div>
+
+
+## Body of manuscript | Methods
+
+* use enough detail that a reader could essentially replicate the study, or envision it accurately
+
+> - provide important details but omit irrelevant ones; relevance depends on the objectives
+
+> - avoid a step by step description (eg, "First we drove to the river, then we were given instructions, and then..."
+
+> - sub-headings can be useful (eg, Study site, Species, Statistical models)
+
+> - figures (schematics) can be useful for showing process(es)
+
+
+## Body of manuscript | Results - text
+
+* narrative should stand on its own with support from figures & tables
+
+> - begin with most notable (exciting) result(s)
+
+
+## Body of manuscript | Results - text
+
+"We captured a total of 137 fish, 68 of which were females and 49 of which were juveniles too young to be sexed (Table 1)."
+
+versus
+
+"We found a strong positive effect of temperature on fish growth (Figure 1)."
+
+
+## Body of manuscript | Results - text
+
+* narrative should stand on its own with support from figures & tables
+
+* begin with most notable (exciting) result
+
+* avoid explicit statements about where to find results
+
+
+## Body of manuscript | Results - text
+
+"We found a significant positive relationship between nitrogen concentration and algal growth (Figure 2)."
+
+versus
+
+"Figure 2 shows the relationship between nitrogen concentration and algal growth."
+
+
+## Body of manuscript | Results - figures
+
+* figures are meant to provide an overall summary of findings
+
+> - consider carefully the use of colors, lines & shapes
+
+> - include as much info as necessary (allowed) to facilitate intepretation
+
+> - captions should describe "what" and not "why" or "how"
+
+
+## Body of manuscript | Results - tables
+
+* tables are meant to provide detailed summaries of findings
+
+> - eg, statistical analyses, sample collections
+
+> - captions should describe columns & rows with sufficient detail
+
+
+## Body of manuscript | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of manuscript | Discussion {data-background=triangle_inverted.png data-background-size=60% data-background-position="50% 50%"}
+
+<br><br>
+
+<div class="centered">
+Specific findings
+
+Interpretation
+
+In light of other studies
+
+Implications & next steps
+</div>
+
+
+## Body of manuscript | Acknowledgments
+
+* who and what gets acknowledged?
+
+> - sources of financial support, which is courteous and ethical
+
+> - failure to do so may raise ethical conflicts
+
+> - those who provided direct "hands-on" help in the lab & field, and those who provided ideas, editorial help, analyses of data, etc
+
+> - do not thank family, friends & idols for moral support, love & inspiration
+
+> - consider carefully the line between authorship & acknowledgment
+
+
+## Body of manuscript | Data availability
+
+* journals are increasingly requiring data (and code) to be made publicly available
+
+> - decide when & where they will be made available
+
+
+## Body of manuscript | References
+
+* judicious use of references is especially important for introducing the topic & interpreting the anticipated result
+
+> - make sure a given reference is germane to point being made
+
+> - make sure to check your citations and references section for errors & omissions
+
+> - using a reference manager (EndNote, Zotero) helps with this
+
+
+## Body of manuscript | Appendices & supplements 
+
+* additional material may be germane to your study, but does not warrant inclusion in main body
+
+> - increasingly common given online access & resources
+
+> - careful consideration should be given to what and how material is included
+
+> - including code to replicate study aids review & increases your odds of acceptance
+
+
