@@ -206,26 +206,78 @@ We agree with the reviewer that such an analysis could reveal some interesting p
 # Authorship exercise
 
 
-## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
-
-Which characters should be authors, and in what order?
-
-Discuss and provide rationale for your decision(s)
-
-
 ## Authorship exercise | Scenario 1
 
 Professor X and new graduate student Y are developing a research project for Y. Y is interested in a project that Z, a graduate student colleague/professor in the department, is conducting. Y discusses project concepts with X, and decides to conduct a project descended from and closely related to Z's project. The questions, methods, and analysis were developed solely by X and Y, and all physical work was conducted by Y. Y and Z met a few times to discuss methods for analysis, but Z contributed nothing to manuscript preparation.
+
+* Should Z be included as an author?
+
+* Who should be first author?
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 25% of respondents thought that Z deserved authorship
+
+* 84% of respondents indicated that Y should be first author, whereas 16% of respondents indicated that X deserved to be the first author
 
 
 ## Authorship exercise | Scenario 2
 
 Principal Investigator X developed the intellectual ideas, wrote a proposal, and received monies for a new, well-funded project. X hires technician T to handle project logistics, and to ensure that the project follows X's original vision; T collects much of the empirical data, and supervises undergraduate students who assist during data collection. Research assistant A is responsible for manipulation, analysis, and interpretation of data collected by T et al.
 
+* Who should be included as an author, and in what order?
+
+* Who should be the first author?
+
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 78% of respondents thought all three characters should be included as authors
+
+* 78% chose X as first author
+
+* 14% chose A as first author
+
+* 82% included T as an author
+
+* Respondents listed 10 unique combinations for authorship order
+
 
 ## Authorship exercise | Scenario 3
 
 Professor X initiates writing of a synthesis paper with graduate student Y on their favorite topic. After the two meet several times to outline a paper, Y takes the task of writing the first draft. X and Y pass the manuscript back and forth several times before X does the final revision and submits the manuscript for publication.
+
+* Who should be the first author?
+
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Survey responses
+
+* 46% of respondents thought that X should be the first author
+
+* 46% thought that Y should be the first author
+
+* 8% could not decide
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+A project involves data collected as part of a routine monitoring program funded by public taxes and the data can be downloaded freely. Although the data did not involve any specific project, you discover some seemingly important patterns that apply to a particular interest of yours. Is there an obligation to determine who initiated the specific study or can the data be simply used?
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+A faculty member is coming up for promotion and insists on being first author on a paper from a graduate student’s dissertation. Does the student object and come into conflict with the supervisor, who will be relied upon for letters of reference and other forms of professional support, or say nothing and not get appropriate credit for the work?
+
+
+## Authorship exercise | Taken from Tom Quinn (2021)
+
+Undergrad C does a really nice job working on a data set that no one else was working on but that had been collected by some agency. Faculty member D supervised C and was closely involved in the project. C graduates, gets a job, moves away, and the project stalls. D moves it along, making many rounds of edits, revisions, fixing graphs, getting references, etc. When it is ready to submit to a journal, does D include C as second author, as first, or neither? Does the decision to list C and the order or authorship depend on how involved C was in the final stages of preparation, or not?
 
 
 # Manuscript structure
