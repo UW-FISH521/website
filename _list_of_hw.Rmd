@@ -44,10 +44,10 @@ holiday_1 <- list(
 ## week 4
 proposal_draft <- list(
   title = "",
-  topics = c("Draft proposal"),
+  topics = c("Draft proposal introduction"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_04/hw_03_proposal_intro.html",
   due_date = "31 Jan",
   percent = "15%"
 )
