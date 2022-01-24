@@ -12,3 +12,143 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## Science is a process
+
+* Publishing is part of the process
+
+> - The general flow goes something like the following
+
+
+## Process of publishing 
+
+A. Someone takes the lead
+
+> - Point person for communication
+
+> - Keeps others on task and on time
+
+
+## Process of publishing 
+
+B. Co-authors are chosen<sup>*</sup>
+
+> - Begin this process **early**
+
+> - Communication is key
+
+> - Consult journal guidelines
+
+> - Err on the side of inclusion
+
+> - Value diversity
+
+> - Document contributions
+
+
+## Process of publishing 
+
+2. A journal is chosen based upon
+
+> - topic
+
+> - audience
+
+> - reputation or impact factor
+
+> - cost
+
+
+## Process of publishing 
+
+3. Tasks are assigned
+
+> - may involve analysis, production of figures & tables, writing
+
+
+## Process of publishing 
+
+3. Leader drafts an outline, decides how to focus it, chooses an appropriate target journal (or vice versa)
+
+
+Pieces get produced and assembled
+
+
+Drafts get circulated among all co-authors
+
+The final version is uploaded to a journal’s website (pick a journal and explore this process – it is not trivial)
+
+
+# Manuscript structure
+
+## Manuscript structure | 3 important pieces
+
+1. Title
+
+2. Abstract
+
+3. Body
+
+    - text / narrative  
+    - figures / tables  
+    - references  
+    
+
+## Manuscript structure | Title
+
+* Must get the attention of a wide but appropriate range of potential readers.
+
+> - Who is the target audience? Related to species, region, habitat, taxa?
+
+> - Need not be formal but avoid getting too cute
+
+> - Pros and cons of being specific and general
+
+> - Consider a rough title to help think about the proposal & then refine it later
+
+
+## Manuscript structure | Abstract
+
+* As with a scientific paper, it should include elements of
+
+    - introduction  
+    - methods  
+    - (anticipated) results  
+    - discussion  
+    
+> - Focus on introduction & interpretation
+
+> - Should convey that project is **important & do-able**
+
+
+## Manuscript structure | Body
+
+* Introduction  
+
+> - Materials & methods  
+
+> - Results
+
+> - Discussion
+
+> - References
+
+
+## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+
+
+## Body of proposal | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
+
+<br>
+
+<div class="centered">
+Broadest perspective
+
+Progressively
+
+more
+
+specific
+</div>
+
+
