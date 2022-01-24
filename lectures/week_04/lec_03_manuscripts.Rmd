@@ -297,7 +297,7 @@ Undergrad C does a really nice job working on a data set that no one else was wo
 
 ## Manuscript structure | Title
 
-* Must get the attention of a wide but appropriate range of potential readers.
+* must get the attention of a wide but appropriate range of potential readers.
 
 > - who is the target audience? Related to species, region, habitat, taxa?
 
@@ -310,14 +310,14 @@ Undergrad C does a really nice job working on a data set that no one else was wo
 
 ## Manuscript structure | Abstract
 
-* As with a proposal, it should include elements of
+* as with a proposal, it should include elements of
 
     - introduction  
     - methods  
     - (anticipated) results  
     - discussion  
 
-> - Pay close attention to journal guidelines
+> - pay close attention to journal guidelines
 
 
 ## Manuscript structure | Body
@@ -339,10 +339,10 @@ Undergrad C does a really nice job working on a data set that no one else was wo
 > - Appendices & supplements
 
 
-## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+## Body of manuscript | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
 
 
-## Body of proposal | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
+## Body of manuscript | Introduction {data-background=triangle.png data-background-size=50% data-background-position="50% 70%"}
 
 <br>
 
@@ -357,29 +357,45 @@ specific
 </div>
 
 
-## Body of proposal | Methods
+## Body of manuscript | Methods
 
-* Use enough detail that a reader could essentially replicate the study, or envision it accurately
+* use enough detail that a reader could essentially replicate the study, or envision it accurately
 
-> - Provide important details but omit irrelevant ones; relevance depends on the objectives
+> - provide important details but omit irrelevant ones; relevance depends on the objectives
 
-> - Avoid a step by step description (eg, "First we drove to the river, then we were given instructions, and then..."
+> - avoid a step by step description (eg, "First we drove to the river, then we were given instructions, and then..."
 
-> - Sub-headings can be useful (eg, Study site, Species, Statistical models)
+> - sub-headings can be useful (eg, Study site, Species, Statistical models)
 
-> - Figures (schematics) can be useful for showing process(es)
-
-
-## Body of proposal | Results
-
-* Narrative should stand on its own with support from figures & tables
-
-> - Begin with most notable (exciting) result
-
-> - Avoid explicit statements about where to find results
+> - figures (schematics) can be useful for showing process(es)
 
 
-## Body of proposal | Results
+## Body of manuscript | Results - text
+
+* narrative should stand on its own with support from figures & tables
+
+> - begin with most notable (exciting) result(s)
+
+
+## Body of manuscript | Results - text
+
+"We captured a total of 137 fish, 68 of which were females and 49 of which were juveniles too young to be sexed (Table 1)."
+
+versus
+
+"We found a strong positive effect of temperature on fish growth (Figure 1)."
+
+
+## Body of manuscript | Results - text
+
+* narrative should stand on its own with support from figures & tables
+
+* begin with most notable (exciting) result
+
+* avoid explicit statements about where to find results
+
+
+## Body of manuscript | Results - text
 
 "We found a significant positive relationship between nitrogen concentration and algal growth (Figure 2)."
 
@@ -388,30 +404,30 @@ versus
 "Figure 2 shows the relationship between nitrogen concentration and algal growth."
 
 
-## Body of proposal | Results
+## Body of manuscript | Results - figures
 
-* Figures are meant to provide an overall summary of findings
+* figures are meant to provide an overall summary of findings
 
-> - Consider carefully the use of colors, lines & shapes
+> - consider carefully the use of colors, lines & shapes
 
-> - Include as much info as necessary (allowed) to facilitate intepretation
+> - include as much info as necessary (allowed) to facilitate intepretation
 
-> - Captions should describe "what" and not "why" or "how"
+> - captions should describe "what" and not "why" or "how"
 
 
-## Body of proposal | Results
+## Body of manuscript | Results - tables
 
-* Tables are meant to provide detailed summaries of findings
+* tables are meant to provide detailed summaries of findings
 
 > - eg, statistical analyses, sample collections
 
-> - Captions should describe columns & rows with sufficient detail
+> - captions should describe columns & rows with sufficient detail
 
 
-## Body of proposal | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
+## Body of manuscript | {data-background=hourglass.png data-background-size=35% data-background-position="50% 70%"}
 
 
-## Body of proposal | Discussion {data-background=triangle_inverted.png data-background-size=60% data-background-position="50% 50%"}
+## Body of manuscript | Discussion {data-background=triangle_inverted.png data-background-size=60% data-background-position="50% 50%"}
 
 <br><br>
 
@@ -426,9 +442,9 @@ Implications & next steps
 </div>
 
 
-## Body of proposal | Acknowledgments
+## Body of manuscript | Acknowledgments
 
-* Who and what gets acknowledged?
+* who and what gets acknowledged?
 
 > - sources of financial support, which is courteous and ethical
 
@@ -441,27 +457,29 @@ Implications & next steps
 > - consider carefully the line between authorship & acknowledgment
 
 
-## Body of proposal | Data availability
+## Body of manuscript | Data availability
 
-* Journals are increasingly requiring data (and code) to be made publicly available
+* journals are increasingly requiring data (and code) to be made publicly available
 
 > - decide when & where they will be made available
 
 
-## Body of proposal | References
+## Body of manuscript | References
 
-* Judicious use of references is especially important for introducing the topic & interpreting the anticipated result
+* judicious use of references is especially important for introducing the topic & interpreting the anticipated result
 
-> - Make sure a given reference is germane to point being made
+> - make sure a given reference is germane to point being made
 
-> - Make sure to check your citations and references section for errors & omissions
+> - make sure to check your citations and references section for errors & omissions
 
-> - Using a reference manager (EndNote, Zotero) helps with this
+> - using a reference manager (EndNote, Zotero) helps with this
 
 
-## Body of proposal | Appendices & supplements 
+## Body of manuscript | Appendices & supplements 
 
-* Additional material may be germane to your study, but does not warrant inclusion in main body
+* additional material may be germane to your study, but does not warrant inclusion in main body
+
+> - increasingly common given online access & resources
 
 > - careful consideration should be given to what and how material is included
 
