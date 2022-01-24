@@ -46,9 +46,11 @@ papers <- list(
   title = "Structuring a manuscript",
   topics = c("Structuring a manuscript", "Authorship & contributions", "Supplementary material & reproducibility"),
   pdf = c(""),
-  rmd = c(""),
-  html = c(""),
-  background = c(""),
+  rmd = c("lectures/week_04/lec_03_manuscripts.Rmd"),
+  html = c("lectures/week_04/lec_03_manuscripts.html"),
+  background = c("[Weltzin et al (2006)](references/Weltzin_ecology_authorship.pdf)",
+                 "[Liboiron et al (2017)](references/Liboiron_equity_authorship.pdf)",
+                 "[Cooke et al (2021)](references/Cooke_10_rules_authorship.pdf)"),
   zoom = ""
 )
 
