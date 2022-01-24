@@ -26,7 +26,9 @@ proposals <- list(
   pdf = c(""),
   rmd = c("lectures/week_02/lec_02_proposals_abstracts.Rmd"),
   html = c("lectures/week_02/lec_02_proposals_abstracts.html"),
-  background = c("[Message Box](references/message_box.pdf)", "[Nature abstract](references/nature_summary_paragraph.pdf)"),
+  background = c("[de Vries' proposal recipe](references/proposal_recipe.jpg)",
+                 "[Message Box](references/message_box.pdf)",
+                 "[Nature abstract](references/nature_summary_paragraph.pdf)"),
   zoom = ""
 )
 
