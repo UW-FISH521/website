@@ -1,5 +1,5 @@
 ---
-title: "Publishing a scientific manuscript"
+title: "Publishing a scientific paper"
 subtitle: "Proposal writing & professional development<br>FISH 521"
 author: "Mark Scheuerell"
 date: "24 January 2022"
@@ -202,6 +202,30 @@ We agree with the reviewer that such an analysis could reveal some interesting p
 
 > - most often, people move on to the next journal on their list
 
+
+# Authorship exercise
+
+
+## Authorship exercise | Taken from Weltzin et al (2006) *Front Ecol Evol*
+
+Which characters should be authors, and in what order?
+
+Discuss and provide rationale for your decision(s)
+
+
+## Authorship exercise | Scenario 1
+
+Professor X and new graduate student Y are developing a research project for Y. Y is interested in a project that Z, a graduate student colleague/professor in the department, is conducting. Y discusses project concepts with X, and decides to conduct a project descended from and closely related to Z's project. The questions, methods, and analysis were developed solely by X and Y, and all physical work was conducted by Y. Y and Z met a few times to discuss methods for analysis, but Z contributed nothing to manuscript preparation.
+
+
+## Authorship exercise | Scenario 2
+
+Principal Investigator X developed the intellectual ideas, wrote a proposal, and received monies for a new, well-funded project. X hires technician T to handle project logistics, and to ensure that the project follows X's original vision; T collects much of the empirical data, and supervises undergraduate students who assist during data collection. Research assistant A is responsible for manipulation, analysis, and interpretation of data collected by T et al.
+
+
+## Authorship exercise | Scenario 3
+
+Professor X initiates writing of a synthesis paper with graduate student Y on their favorite topic. After the two meet several times to outline a paper, Y takes the task of writing the first draft. X and Y pass the manuscript back and forth several times before X does the final revision and submits the manuscript for publication.
 
 
 # Manuscript structure
