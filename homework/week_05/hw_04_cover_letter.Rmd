@@ -28,12 +28,19 @@ Your assignment this week is to draft the introduction and rationale for a resea
 Write a cover letter for a submission to a journal using the template below. Base your letter upon the paper you chose for HW #1 as though it were your own original manuscript.
 
 
+## Submission
+
+When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+
+
+***
+
 ## Letter template
 
-[Editor’s First and Last Name], [Graduate Degree]
-[Editor's title]
-[Journal Name]
-[Journal Address]
+[Editor’s First and Last Name], [Graduate Degree]  
+[Editor's title]  
+[Journal Name]  
+[Journal Address]  
 [Submission Date: Month Day, Year]
 
 Dear Dr. [Editor's last name]:
@@ -73,7 +80,3 @@ Corresponding Author
 [Your e-mail address]  
 [Tel: (include relevant country/area code)]  
 
-
-## Submission
-
-When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
