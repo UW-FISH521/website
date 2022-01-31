@@ -1,0 +1,82 @@
+---
+title: "Writing a cover letter"
+subtitle: "Homework #3"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "31 January 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Background
+
+Your assignment this week is to draft the introduction and rationale for a research proposal based on your area of research. As we discussed in class, this is an important part of every proposal because it sets the stage by providing background information and justification for the proposed research (ie, "Why is this topic important?").
+
+
+## Instructions
+
+Write a cover letter for a submission to a journal using the template below. Base your letter upon the paper you chose for HW #1 as though it were your own original manuscript.
+
+
+## Submission
+
+When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+
+
+***
+
+## Letter template
+
+[Editor’s First and Last Name], [Graduate Degree]  
+[Editor's title]  
+[Journal Name]  
+[Journal Address]  
+[Submission Date: Month Day, Year]
+
+Dear Dr. [Editor's last name]:
+
+[Paragraph 1: 2–3 sentences] Begin with a sentence that mentions the paper's title and the journal to which you are submitting. Then include 1-2 sentences that summarizes the study design, your research question, your major findings, and the conclusion.
+
+[Paragraph 2: 2–5 sentences] Describe the context that prompted your research and state why the paper will appeal to the journal's readership. Include information that connects your submission to aspects of the journal's *Aim and Scope*. Here are some tips:
+
+* Identify the journal audience and how they can use your research to expand their understanding of the topic
+
+* Include context about why this research question had to be addressed
+
+* Mention if the paper was prompted by prior research
+
+[Paragraph 3: 2-3 sentences] Briefly describe how the submission relates to prior works (especially any published previously by the same journal).
+
+[Paragraph 4: 1-3 sentence] Disclose whether or not any of the information in the paper has been published or presented elsewhere.
+
+[Paragraph 5: 1 sentence] Provide the names and justification for 3 potential reviewers. Take these from the authors of the previous papers you identified in HW #1.
+
+* [Name, institution, email, expertise]
+
+* [Name, institution, email, expertise]
+
+* [Name, institution, email, expertise]
+
+[Paragraph 6: 1 sentence] Claim any conflicts of interest or explicitly declare that there are none.
+
+Sincerely,
+
+[Your Name]
+
+Corresponding Author  
+[Institution Title]  
+[Institution/Affiliation Name]  
+[Institution Address]  
+[Your e-mail address]  
+[Tel: (include relevant country/area code)]  
+
