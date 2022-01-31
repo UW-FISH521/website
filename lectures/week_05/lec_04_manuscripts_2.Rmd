@@ -33,7 +33,7 @@ Things to consider
 
 Look over the journal's "scope"
 
-For example, [Can J Fish Aquatic Sci](https://cdnsciencepub.com/journal/cjfas/about)
+For example, [*Can J Fish Aquat Sci*](https://cdnsciencepub.com/journal/cjfas/about)
 
 
 ## Choosing a journal | Reputation
@@ -56,12 +56,29 @@ For example, [Can J Fish Aquatic Sci](https://cdnsciencepub.com/journal/cjfas/ab
 > - Are the reviews collegial & helpful?
 
 
-## Choosing a journal | Impact factor
+## Choosing a journal | Impact Factor (IF)
+
+* Frequency with which the *average article* in a journal has been cited in a particular year or period
+
+> - IF's can be used to approximate the prestige of journals
+
+> -  Many people, including search & tenure committees, pay close attention to journal IF's
+
+
+## Choosing a journal | Impact Factor (IF)
+
+Number of citations in year *t* divided by total publications during the previous two years
+
+$$
+\text{IF}_t = \frac{citations_t}{pubs_{t-1} + pubs_{t-2}}
+$$
+
+## Choosing a journal | Impact Factor (IF)
 
 [Trevor Branch's list](https://sites.google.com/a/uw.edu/most-cited-fisheries/fisheries-journal-impact-factors)
 
 
-## Choosing a journal | Impact factor
+## Choosing a journal | Impact Factor (IF)
 
 [Web of Science](https://www.lib.washington.edu/)
 
@@ -80,6 +97,32 @@ For example, [Can J Fish Aquatic Sci](https://cdnsciencepub.com/journal/cjfas/ab
 * Use Web of Science to find a journal of interest
 
 * Write the name of the journal and its impact factor in the chat
+
+
+## Choosing a journal | Author guidelines
+
+Guidelines list important details about
+
+* article type & length
+
+> - section names & requirements
+
+> - formatting of references, tables & figures
+
+> - for example, [Can J Fish Aquat Sci](https://cdnsciencepub.com/journal/cjfas/authors)
+
+
+## Choosing a journal | Publishing costs
+
+Page charges vary widely among journals; options include
+
+* OA (anyone can access) = higher flat rate 
+
+> - journal subscribers = lower flat rate (+ color figures)
+
+> - membership (eg, [*PeerJ*](https://peerj.com/pricing/#pay-with-lifetime-membership))
+
+> - some are free (eg, [*Can J Fish Aquat Sci*](https://cdnsciencepub.com/authors-and-reviewers/publication-fees))
 
 
 # Writing a cover letter
