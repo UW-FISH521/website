@@ -58,7 +58,7 @@ cover_letter <- list(
   topics = c("Cover letter to journal"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_05/hw_04_cover_letter.html",
   due_date = "7 Feb",
   percent = "10%"
 )
