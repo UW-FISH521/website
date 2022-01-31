@@ -96,7 +96,7 @@ $$
 
 * Use Web of Science to find a journal of interest
 
-* Write the name of the journal and its impact factor in the chat
+* Enter the name of the journal and its impact factor [here](https://docs.google.com/spreadsheets/d/1v7C5WVwHKuGSHzcvZmv1PA1Ky8P3SdXtbpfeiRHiX98/edit?usp=sharing)
 
 
 ## Choosing a journal | Author guidelines
@@ -125,7 +125,76 @@ Page charges vary widely among journals; options include
 > - some are free (eg, [*Can J Fish Aquat Sci*](https://cdnsciencepub.com/authors-and-reviewers/publication-fees))
 
 
+## In-class exercise | Find a journal & its publication charges
+
+* Navigate to the website for the journal you chose earlier to find its impact factor
+
+* Find the publication cost(s) and enter it [here](https://docs.google.com/spreadsheets/d/1v7C5WVwHKuGSHzcvZmv1PA1Ky8P3SdXtbpfeiRHiX98/edit?usp=sharing)
+
+
 # Writing a cover letter
+
+## Cover letters | Why do they matter?
+
+2 reasons for (good) cover letters:
+
+1) publishing is a business---will your article make them money?
+
+2) editors are busy---can you follow directions?
+
+
+## Cover letters | A poor example
+
+Dear Sirs,  
+
+I am sending you our manuscript entitled "Patterns in fish size across lakes". We would like to have the manuscript considered for publication in your journal.  
+
+Please let me know of your decision at your earliest convenience.  
+
+Sincerely yours,  
+Lance Manion, PhD
+
+
+## &nbsp; {data-background=cover_letter_template.png data-background-size=80%}
+
+<div class="citation">
+Taylor & Francis
+</div>
+
+
+## Cover letters | Other info (may be entered during online submission)
+
+* Similar articles previously published by the target journal
+
+> - Relevant works by you or co-authors that are previously published or under consideration by other journals
+
+> - Any prior discussions with editor(s)
+
+> - Technical specialties required to evaluate your paper
+
+> - Potential reviewers and their contact information
+
+> - Reviewers to exclude
+
+
+## Cover letters | Some helpful tips
+
+* include any graduate degrees in the editor's name
+
+> - if the editor's name is unknown, use the relevant title (eg,"Managing Editor", "Editor-in-Chief")
+
+> - **Never** use "Sirs", "Mrs." or "Miss"
+
+
+## Cover letters | Things **not** to do or say
+
+* Don't use too much jargon or include too many acronyms
+
+> - Don't over-sell your findings or their significance (eg, avoid "novel" or "ground-breaking")
+
+> - Don't name drop
+
+> - Don't drone on and on (aim for a one-page letter)
 
 
 ## Using plain language
@@ -146,5 +215,218 @@ Page charges vary widely among journals; options include
 
 
 # Supplementary material<br>& reproducibility
+
+## Supplemental material
+
+The increasingly important online side of journals allows authors to include additional info in supplementary material
+
+> - methods (data & code)
+
+> - results (tables & figures)
+
+
+## Supplemental material | Reproducibility
+
+* Including the information necessary to reproduce analyses & results aids in the review process
+
+> - It also helps your future self and others understand what was done
+
+
+## Reproducibility crisis in science
+
+We are witnessing an increasing number of examples where the original analysis cannot be reproduced
+
+> - For example, a group of Amgen scientists could only confirm the results in 6 out of 53 cancer studies (Begley & Ellis 2012) 
+
+
+## What does it mean to be reproducible?
+
+According to the National Science Foundation:
+
+The calculation of quantitative scientific results by independent researchers using the original data and methods
+
+
+## What does it mean to be reproducible?
+
+Reproducibility can be further broken down
+
+> - empirical (eg, sample IDs, sampling gear, instrument settings)
+
+> - statistical (eg, which statistical tests, what model parameters)
+
+> - computational (eg, code, software, hardware)
+
+
+## What is a research compendium?
+
+"A standard and easily recognizable way for organizing the digital materials of a project to enable others to inspect, reproduce, and extend the research."
+
+<div class="centered">
+--Marwick et al. (2018)
+</div>
+
+## 3 principles of research compendia
+
+1. Project organization should follow the conventions of the scientific community
+
+    > - The community might be a lab group
+
+    > - The convention(s) support tool building
+
+
+## 3 principles of research compendia
+
+1. Project organization should follow the conventions of the scientific community
+
+2. Maintain a clear separation of data, methods and output
+
+    > - Separate data from code
+
+    > - Separate cleaning, analysis & output code
+
+
+## Example file structure
+
+```
+|-code
+  |-01_data-ingest.R
+  |-02_data-cleaning.R
+  |-03_data-QAQC.R
+  |-04_model-fitting.R
+  |-05_create-figures.R
+|-data
+  |-skagit_steelhead-escapement.csv
+  |-skagit_river-flow.csv
+```
+
+
+
+## 3 principles of research compendia
+
+1. Project organization should follow the conventions of the scientific community
+
+2. Maintain a clear separation of data, methods and output
+
+3. Specify the computational environment
+
+    > - Which software/package(s) and what version(s)?
+
+    > - Ranges from simple text description to self-contained environments
+
+
+## Why use a research compendium?
+
+> - Increased efficiency, simplified file management and streamlined workflows
+
+> - Increased visibility and scientific impact
+
+> - Ability to return later and understand the process
+
+
+## Creating a research compendium | Key principle
+
+Organize your compendium so another person knows what to expect from the plain meaning of the file and directory names
+
+
+## Simple compendium {data-background=compendium_1.png data-background-size=45% .citation}
+
+Marwick et al (2018)
+
+
+## Simple compendium {data-background=compendium_2.png data-background-size=45% .citation}
+
+Marwick et al (2018)
+
+
+## Medium compendium {data-background=compendium_3.png data-background-size=30% .citation}
+
+Marwick et al (2018)
+
+
+## Large {data-background=compendium_4.png data-background-size=30% .citation}
+
+Marwick et al (2018)
+
+
+## Sharing a research compendium | 5 things to consider
+
+1. Licensing
+
+    > - Who can (re)use the work?
+
+    > - Are there restrictions?
+
+    > - Many depositories require Creative Commons licenses
+
+
+## Sharing a research compendium | 5 things to consider
+
+1. Licensing
+
+2. Version control
+
+    > - Facilitates private collaboration among colleagues on the project
+
+    > - Allows for distribution and maintenance of the compendium in the future
+
+
+## Sharing a research compendium | 5 things to consider
+
+1. Licensing
+
+2. Version control
+
+3. Persistence
+
+    > - Consider the "life span" of the analysis
+ 
+    > - A Digital Object Identifier (DOI) is more permanent than a URL
+
+
+
+## Sharing a research compendium | 5 things to consider
+
+1. Licensing
+
+2. Version control
+
+3. Persistence
+
+4. Metadata
+
+    > - Publishing data with a DOI requires a description of the data themselves
+
+    > - Who, what, where, when, how
+
+
+## Sharing a research compendium | 5 things to consider
+
+1. Licensing
+
+2. Version control
+
+3. Persistence
+
+4. Metadata
+
+5. Location
+
+    > - GitHub is very common
+
+    > - Zenodo, Figshare are alternatives
+
+
+## Tools for creating a compendium
+
+One could always create a structure from scratch
+
+Alternatively, consider some existing tools
+
+> - Jeff Hollister's [{manuscriptPackage}](https://github.com/jhollist/manuscriptPackage)
+
+> - Carl Boettiger's [{template}](https://github.com/cboettig/template)
+
+> - Ben Marwick's [{rrtools}](https://github.com/benmarwick/rrtools)
+
 
 
