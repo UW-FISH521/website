@@ -148,6 +148,28 @@ straightforward as possible for authors and reviewers
 ## How does the process work? {data-background=peer_review_process.png data-background-size=98% data-background-position="50% 100%"}
 
 
+## Best practices | Reviewer invitation
+
+Things to consider:
+
+* Does the subject area of the article match my expertise?
+
+> - Do I have time to do the review within the time frame requested (2-3 weeks)?
+
+> - Do I have any conflicts of interest?
+
+> - Do I actually want to review this article?
+
+> - Can I commit the necessary time?
+
+
+## Best practices | Reviewer invitation
+
+* If declining an invitation, do so promptly
+
+* If possible, suggest alternate reviewers
+
+
 # Writing constructive reviews
 
 
