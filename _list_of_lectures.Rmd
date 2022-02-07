@@ -78,7 +78,9 @@ reviewing <- list(
   html = c("lectures/week_06/lec_05_reviewing.html"),
   background = c("[Silbiger & Stubler (2019)](references/Silbiger_2019_peer_review_urm.pdf)",
                  "[Clements (2020)](references/Clements_2020_prig_peer_review.pdf)",
-                 "[Gerwing et al (2020)](references/Gerwing_2020_prof_peer_review.pdf)"),
+                 "[Gerwing et al (2020)](references/Gerwing_2020_prof_peer_review.pdf)",
+                 "[Taylor & Francis Guide](references/taylor_francis_reviewer_guide.pdf)",
+                 "[BES Guide](references/BES_guide_to_peer_review.pdf)"),
   zoom = ""
 )
 
