@@ -160,7 +160,7 @@ Things to consider:
 
 > - Do I actually want to review this article?
 
-> - Can I commit the necessary time?
+> - Can I commit the necessary time (it's OK to ask for an extension)?
 
 
 ## Best practices | Reviewer invitation
@@ -355,6 +355,7 @@ We all have unconscious biases that affect our ability to conduct reviews
 
 > - **Do not** submit a paper with overlapping material, especially results, to different journals
 
+
 ## Authorship
 
 * Recall that authorship is usually granted to those who have substantially contributed to the work presented in an article
@@ -387,4 +388,78 @@ Unfortunately, not all data are what they appear
 # Responding to reviews
 
 
+## Journal decisions
+
+Generally fall along 3 lines:
+
+1) accept with minor revisions
+
+2) accept with major revisions
+
+3) reject
+
+
+## Journal decisions
+
+**BEWARE**: reviewer comments can be blunt, unnecessarily degrading & utterly demoralizing
+
+> - ask your advisor about their approach / policy
+
+
+## Responding to reviews
+
+> - if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+> - lead author writes cover letter summarizing and detailing changes made
+
+> - should reference & address every comment point-by-point; be as polite & flattering as possible
+
+
+## Responding to reviews
+
+Example
+
+*P 7 L 21-23: Here the authors say they used data from 3 sites, but the first paragraph of the methods section mentions 4 sites were sampled. Why was one of the sites excluded?*
+
+We thank the reviewer for catching what was an error on our part. We did, in fact, use the data from all 4 sites and have made the appropriate edit to the sentence.
+
+
+## Responding to reviews
+
+Example
+
+*P 13 L 11-12: It's simply absurd to think that an increase in water temperature of 1.9 degrees C could elicit the change in growth you observed.*
+
+Our findings are very much in line with previous studies showing the effect of temperatuure on growth. For example, the reference we cited (Smith 2020) presents rather compelling evidence that a difference of only 1.5 degrees C increased growth by 20%.
+
+
+## Responding to reviews
+
+Example
+
+*P 9 L 4-6: It would seem that in addition to the growth study, the authors could also add an analysis of the diet data to examine possible relationships between shifts in composition accompanied the observed changes in growth.*
+
+We agree with the reviewer that such an analysis could reveal some interesting patterns, but it is simply out of scope for this project given the resources and time required to undertake it.
+
+
+## Responding to reviews
+
+* if not rejected, paper is revised along the lines suggested by editor & reviewers
+
+* lead author writes letter summarizing and detailing changes made
+
+* should reference & address every comment point-by-point; be as polite & flattering as possible
+
+> - note that you *do not* have to agree with everything, but you do need to justify everything
+
+> - this process can take a long time; ask for an extension if you need one
+
+
+## Responding to reviews | Paper rejections
+
+* If your paper is rejected, are the reviews sensible & reasonable?
+
+> - If not, consider contacting the editor to express your concerns and ask for clarification or re-evaluation
+
+> - If so, consider revising along the lines suggested by the reviews & submit elsewhere
 
