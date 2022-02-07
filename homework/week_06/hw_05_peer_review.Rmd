@@ -1,0 +1,66 @@
+---
+title: "Reviewing a manuscript"
+subtitle: "Homework #5"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "7 February 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Instructions
+
+Write a peer review of the preprint article by Purgar et al. titled *Identify, quantify, act: tackling the unused potential of ecological research*, which has been posted to the EcoEvoRxiv Preprint server [here](https://ecoevorxiv.org/xqshu/). This paper is written in more of an essay format, but it is general enough that everyone in class should be able to read, undertand, and comment on it.
+
+Your review should follow the template provided below.
+
+
+## Submission
+
+When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+
+
+***
+
+## Review template
+
+<br>
+
+**Comments to the editor** (These are confidential and will not be seen by the authors.)
+
+This is an opportunity to place your comments or major concerns into context. This section should be brief (1 paragraph).
+
+<br>
+
+**General comments** (These comments go directly to the authors.)
+
+I typically begin this section with a one paragraph summary of what I thought the paper was about and then I highlight major findings/conclusions.
+
+I then write 1-4 paragraphs that synthesize the most critical aspects of the quality of the science (either positive or negative) that you think should influence the manuscript decision. I also add big-picture suggestions for improving the manuscript, such as
+
+*	*Scientific quality*: soundness of results and analysis, novelty, support of conclusions, and cohesiveness of argument
+
+*	*Writing and presentation*: organization and flow of manuscript, writing style, quality of figures and tables, clarity in message, length relative to information content
+
+<br>
+
+**Specific comments** (These comments go directly to the authors.)
+
+These are meant to highlight specific issues/problems you have with background, analyses, interpretation, etc. I prefer to reference these by page/line number, if/when possible. For example,
+
+L 111: Please clarify what you mean by blah.
+
+L 222: Here you mention X samples, but on line 200 you said it was Y samples. Which statement is correct?
+
+L 333: There is a citation here for Smith (2020), but that reference does not appear in the literature cited section.
+
