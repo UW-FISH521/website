@@ -98,7 +98,7 @@ straightforward as possible for authors and reviewers
 
 * manages the strategic direction of the journal
 
-> - makes final decisions on articles
+> - makes final decisions on articles based upon
 
 > - aims and scope of the journal
 
@@ -111,8 +111,6 @@ straightforward as possible for authors and reviewers
 > - journal priorities
 
 > - journal page budgets
-
-> - balances workloads of the editorial board
 
 
 ## Who does what? | Associate editor
