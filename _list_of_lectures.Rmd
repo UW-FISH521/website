@@ -72,7 +72,7 @@ submission <- list(
 ## week 6 ####
 reviewing <- list(
   title = "Reviewing",
-  topics = c("Reviewing a manuscript/proposal", "Providing feedback", "Author responses & rebuttals"),
+  topics = c("Reviewing a manuscript/proposal", "Author responses & rebuttals"),
   pdf = c(""),
   rmd = c(""),
   html = c("lectures/week_06/lec_05_reviewing.html"),
