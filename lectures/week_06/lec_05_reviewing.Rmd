@@ -173,6 +173,216 @@ Things to consider:
 # Writing constructive reviews
 
 
+## Best practices | Basic principles
+
+* Always treat the paper with the utmost confidentiality
+
+> - Always be professional, courteous & collegial
+
+> - Take an objective, independent approach to the work
+
+> - Be attentive & critical
+
+> - Provide evidence for any statements you make
+
+> - Use simple language
+
+> - Never contact the authors directly
+
+
+## Best practices | Questions to consider
+
+* Does it fit the scope of the journal?
+
+> - Would the paper be of interest to the journal's readers?
+
+> - Is the work novel (does it advance research)?
+
+> - Are the methods complete & analyses properly conducted?
+
+> - Are all citations & references complete?
+
+> - Does the title reflect the contents & is it engaging?
+
+
+## Best practices | General comments
+
+* Begin with a summary of methods, results & implications
+
+> - Provide high-level impressions & concerns
+
+> - Offer both positive feedback & constructive criticism
+
+> - Make suggestions on improving clarity, succinctness & quality of presentation
+
+
+## Best practices | Positive comments
+
+*The manuscript is well written in an engaging and lively style.*
+
+*The content is appropriate to our readership.*
+
+*The subject is timely & one to which the author has made significant contributions.*
+
+*The authors have distilled a complex idea into tangible results.*
+
+*The paper offers a useful overview of current research and policy.*
+
+
+## Best practices | Constructive criticism
+
+*In the Discussion section I would have wished to see more information on...*
+
+*I would strongly advise the authors to rewrite their introduction and discussion to provide greater context for the study.*
+
+*There is an interesting finding in this research about... However, there is insufficient discussion of exactly what this finding means and its implications.*
+
+*The paper would be significantly improved with the addition of more details about...*
+
+*The abstract is very lengthy and goes into detailed accounts that are best suited for the article's main discussion sections.*
+
+
+## Best practices | Specific comments
+
+* Provide information to help the editor with decision & authors with revisions
+
+> - Use page & line numbers to reference points of contention or agreement
+
+
+## Specific comments | Abstract or summary
+
+* Is it concisely written?
+
+> - Does it provide a clear overview of the work?
+
+> - Does it contain the essential facts from the paper?
+
+> - Does the final point place the work in a broader context, highlighting its significance?
+
+
+## Specific comments | Introduction
+
+* Does it provide a clear, concise background to the study?
+
+> - Can you understand the aims of the study & hypotheses/questions the authors are exploring?
+
+> - Have the authors elaborated sufficiently on the context in which the work is set?
+
+> - Has the motivation for the work been adequately explained?
+
+> - Is there satisfactory citation of prior literature?
+
+
+## Specific comments | Materials & methods
+
+* Have the procedures followed been sufficiently described?
+
+> - Is there enough detail here for the study to be replicated?
+
+> - Is it clear what was recorded and which units of measurement were used?
+
+> - Are the statistical design and analyses appropriate?
+
+> - Have important details been left out?
+
+> - Where appropriate, has ethical approval been obtained for the work?
+
+
+## Specific comments | Results
+
+* Are they provided in a form that is easy to interpret & understand?
+
+> - Have results for all the questions asked been provided?
+
+> - Are the data of sufficient quality & quantity to answer the questions?
+
+> - Are the figures & tables appropriate?
+
+> - Have the correct units of measurement been used?
+
+
+## Specific comments | Discussion
+
+* Have the authors answered their questions/hypotheses?
+
+> - Are the conclusions drawn from the results justified?
+
+> - Has the significance of the study been fully explained?
+
+> - How much has the study advanced our current understanding of the science?
+
+
+## Best practices | Post review
+
+* Whenever possible, agree to review revisions or resubmissions of articles you have previously reviewed
+
+> - Do not include anything that appears to be a decision about the paper in
+your comments to the authors
+
+> - Most journals will provide the other reviewers' comments, which help you see how different people review papers & issues that you may have missed
+
+> - If you signed your review & a dispute arises about a decision or your comments, do not engage with the authors directly
+
+
+# Ethics in peer review
+
+
+## Confidentiality
+
+* You must not take ideas presented in articles you review & pass them as your own
+
+> - You must not disclose any data presented in the article
+
+> - However, you can ask a colleague for advice as long as necessary details remain confidential (eg, author names)
+
+
+## Bias
+
+We all have unconscious biases that affect our ability to conduct reviews
+
+* **gender bias**: articles by authors of either sex are subjected to different standards of review
+
+> - **geographical bias**: authors' country of origin will influence the manner in which their work is assessed
+
+> - **seniority bias**: articles by authors at different stages in their careers will be subject to more or less favorable review
+
+> - **confirmation bias**: articles reporting controversial or new ideas will be less favorably reviewed than articles that do not challenge conventional wisdom
+
+
+## Duplicate submission & publication
+
+* **Do not** submit a paper to various journals concurrently
+
+> - **Do not** submit a paper with overlapping material, especially results, to different journals
+
+## Authorship
+
+* Recall that authorship is usually granted to those who have substantially contributed to the work presented in an article
+
+> - **Unjustified authorship**: honorary or guest authorship assigned to people who have not made substantial contribution to the conception, design, acquisition of data, or analysis and interpretation
+
+> - **Ghost authorship**: people who have contributed to authorship of the paper are omitted from the list of authors
+
+
+## Data
+
+Unfortunately, not all data are what they appear
+
+* Fabricated data are made up rather than the result of actual measurements
+
+> - Falsified data arise from measurements that have been unjustifiably altered in order to yield more impressive/convenient results
+
+> - Theft of data someone else's data without their consent
+
+> - Animal welfare practices need to be followed when carrying out research
+
+
+## Conflict of interest
+
+* **Reviewers**: Colleagues or friends of authors who cannot provide an impartial review
+
+> - **Authors**: Funding or association with an organization may raise questions about motivation and findings
+
 
 # Responding to reviews
 
