@@ -66,10 +66,10 @@ cover_letter <- list(
 ## week 6
 review_draft <- list(
   title = "",
-  topics = c("Peer review of draft proposal"),
+  topics = c("Peer review of paper"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_06/hw_05_peer_review.html",
   due_date = "14 Feb",
   percent = "15%"
 )
