@@ -2,7 +2,7 @@
 title: "Peer reviews"
 subtitle: "Proposal writing & professional development<br>FISH 521"
 author: "Mark Scheuerell"
-date: "37 February 2022"
+date: "7 February 2022"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -11,6 +11,141 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+# Peer review process
+
+
+## What is peer review?
+
+* A collaborative process that allows independent experts to evaluate and comment on manuscript submissions
+
+> - Peer review gives authors feedback to improve their work & allows the editor to assess the paper's suitability for publication
+
+
+## Kinds of peer review
+
+* **Single-blind**: reviewer's name is not disclosed to the author(s)
+
+> - **Double-blind**: neither identity of the reviewers and authors are disclosed
+
+> - **Open**: both the author and reviewer names are disclosed
+
+> - **Post-publication open**: editor mediates readers' and reviewers' comments after publication
+
+
+## Why do peer review?
+
+* Improves the quality of articles that are published
+
+> - Provides an assessment of the science in the literature
+
+> - Assists the editorial decision-making process
+
+> - Screens for unethical practice
+
+
+## Why do peer review?
+
+* Keep abreast of latest research
+
+> - Improve your own writing
+
+> - Boost your career
+
+
+## Who does peer review?
+
+Generally people with
+
+* many years of research experience in a subject area
+
+> - in-depth study in a specific area during grad school
+
+> - practical experience in the field
+
+> - recently published articles on a related subject
+
+
+## How do I become a reviewer?
+
+* Contact the editor
+
+> - Ask a senior colleague to recommend you
+
+> - Look out for calls for reviewers
+
+> - Find a mentor
+
+> - Be visible on researcher networking sites (eg, [ResearchGate](https://www.researchgate.net/), [Academia.edu](https://www.academia.edu/))
+
+> - Write a paper!
+
+
+## Who does what? | Editorial office
+
+* checks that article files are complete & journal guidelines were followed
+
+> - provides central contact for all inquiries
+
+> - gives essential feedback to all parties so that the publication experience is as
+straightforward as possible for authors and reviewers
+
+> - ensures final copy for publication is complete & follows guidelines
+
+
+## Who does what? | Editor-in-chief (EIC)
+
+* manages the strategic direction of the journal
+
+> - makes final decisions on articles
+
+> - aims and scope of the journal
+
+> - associate editor recommendation
+
+> - reviewer comments
+
+> - other articles recently published in the journal
+
+> - journal priorities
+
+> - journal page budgets
+
+> - balances workloads of the editorial board
+
+
+## Who does what? | Associate editor
+
+* makes an initial assessment of the article
+
+> - selects appropriate reviewers
+
+> - scrutinizes reviewers' comments
+
+> - provides their own assessment of the article & guidance on the importance of reviewer comments
+
+> - judges merits of publishing the article in the targeted journal using the feedback from reviewers
+
+> - makes recommendation to EIC regarding a final decision
+
+> - promotes the journal within the scientific community
+
+
+## Who does what? | Reviewers
+
+* provide a detailed, objective report on the merits of an article
+
+> - identify flaws in methods, analysis & interpretation of results
+
+> - highlight ethical concerns
+
+> - comment on appropriateness of the literature cited
+
+> - comment on suitability for publication in the journal
+
+
+## How does the process work? {data-background=peer_review_process.png data-background-size=98% data-background-position="50% 100%"}
 
 
 # Writing constructive reviews
