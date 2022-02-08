@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Instructions
 
-Write a peer review of the preprint article by Purgar et al. titled *Identify, quantify, act: tackling the unused potential of ecological research*, which has been posted to the EcoEvoRxiv Preprint server [here](https://ecoevorxiv.org/xqshu/). This paper is written in more of an essay format, but it is general enough that everyone in class should be able to read, undertand, and comment on it.
+Write a peer review of the preprint article by Purgar et al. titled *Identify, quantify, act: tackling the unused potential of ecological research*, which has been posted to the EcoEvoRxiv Preprint server and you can download  [here](Purgar_preprint_unused_research.pdf). This paper is written in more of an essay format, but it is general enough that everyone in class should be able to read, undertand, and comment on it.
 
 Your review should follow the template provided below.
 
