@@ -1,0 +1,35 @@
+---
+title: "Scientific presentations"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "14 February 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Presentations
+
+
+## Elements of a presentation
+
+
+
+# Social media for science
+
+## &nbsp; {data-background=trevor.png data-background-size=95% data-background-position="50% 50%"}
+
+
+## Trevor Branch
+
+Science communicator
+
+* [General SciComm](https://twitter.com/TrevorABranch) (with 16.1k followers!)
+
+* [Blue whale news](https://twitter.com/BlueWhaleNews)
+
