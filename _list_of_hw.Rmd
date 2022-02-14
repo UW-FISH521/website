@@ -80,7 +80,7 @@ scicomm <- list(
   topics = c("Tweet thread or blog post"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_07/hw_06_scicomm.html",
   due_date = "22 Feb",
   percent = "10%"
 )
