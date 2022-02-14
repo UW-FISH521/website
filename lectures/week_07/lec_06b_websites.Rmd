@@ -25,7 +25,7 @@ One of the great features of **R Markdown** is using it to create static website
 
 # Setup
 
-For this exercise, we'll create a simple personal website and host it on **GitHub**. Although you can disply a static website from any **GitHub** repo, we'll use special repo with the same name as your **GitHub** username.
+For this exercise, we'll create a simple personal website and host it on **GitHub**. Although you can display a static website from any **GitHub** repo, we'll use special repo with the same name as your **GitHub** username.
 
 ## Create a repo
 
@@ -113,7 +113,7 @@ The `image` field in `index.Rmd` shows the name of the picture that will be disp
 
 ### Links
 
-The next block that begins with `links` contains a list of `label/url` pairs. These will be buttons on your website that someone could click to direct them to other information about you elsewhere. The last `label/url` pair is for your email address. Not all of these `label/url` pairs are necessary, so you can delete any of them if you'd like. You can also add more of them if you'd like evern more options for others. Go ahead and edit/delete/add any options you'd like here.
+The next block that begins with `links` contains a list of `label/url` pairs. These will be buttons on your website that someone could click to direct them to other information about you elsewhere. The last `label/url` pair is for your email address. Not all of these `label/url` pairs are necessary, so you can delete any of them if you'd like. You can also add more of them if you'd like even more options for others. Go ahead and edit/delete/add any options you'd like here.
 
 When you are finished, your YAML section should resemble something like this:
 
@@ -236,7 +236,7 @@ knitr::include_graphics("img/rs_setup_gh_3.png")
 
 When you are finished, click **Add** and **RStudio** will respond with a window showing you that your local `main` branch is set up to track the remote branch on **GitHub**, and that files you committed above have been pushed to your **GitHub** repo.
 
-**Note**: If clicking **Add** instead takes you back to the ***RStudio** doesn not allow to click the **New bracnh** window and the **Create** button is grayed out, enter `main` in `Branch name:` field and then click **Create**.
+**Note**: If clicking **Add** instead takes you back to the ***RStudio** does not allow to click the **New branch** window and the **Create** button is grayed out, enter `main` in `Branch name:` field and then click **Create**.
 
 ```{r rs_setup_gh_4, echo = FALSE, out.width = "70%", fig.align = "center"}
 knitr::include_graphics("img/rs_setup_gh_4.png")
