@@ -13,7 +13,8 @@
 
 <title>Proposal Writing and Professional Development for Graduate Students</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -509,7 +510,7 @@ Phone: 206-543-1240<br />
 <p>[1] If the instructor should be the one to say something that makes a student uncomfortable, the student should feel free to contact the Director of the School of Aquatic and Fishery Sciences.</p>
 <p><br></p>
 <center>
-<em>This site was last updated at 08:41 on 14 Feb 2022</em>
+<em>This site was last updated at 12:14 on 14 Feb 2022</em>
 </center>
 </div>
 </div>
@@ -552,6 +553,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
