@@ -37,5 +37,26 @@ Your assignment this week is to give a live presentation of your proposal idea *
 
 Mark will evaluate the quality of your presentation based on the following criteria:
 
-* 
+* Title slide with name, affiliation, and contact info
+
+* Acknowledgment of collaborators and funders
+
+* Layout/design of the slides (eg, good color contrast, appropriate font size)
+
+* Speaking clearly and addressing the audience rather than the computer or slides
+
+* Presenting the background and clear rationale for the study
+
+* Brief explanation of the methods or approach
+
+* Highlighting expected results and any potential difficulties
+
+* Brief comment(s) on the implications of the research
+
+* Appropriate ending
+
+## Schedule
+
+
+
 
