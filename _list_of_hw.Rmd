@@ -103,7 +103,7 @@ proposal_final <- list(
   pdf = "",
   rmd = "",
   html = "homework/week_09/hw_07_presentations.html",
-  due_date = "28 Feb (In class)",
+  due_date = "28 Feb<br>(In class)",
   percent = "15%"
 )
 
