@@ -1,0 +1,133 @@
+---
+title: "Student presentations"
+subtitle: "Homework #7"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "28 February 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Background
+
+Your assignment this week is to give a live presentation of your proposal idea **in class** on February 28. Your presentation should cover the following elements:
+
+* Background and rationale for your proposed research
+
+* Questions of interest (or hypotheses to test)
+
+* Methods/approach
+
+* Anticipated results
+
+* Implications (intellectual merit)
+
+
+## Evaluation rubric
+
+Mark will evaluate the quality of your presentation based on the following criteria:
+
+* Title slide with name, affiliation, and contact info
+
+* Acknowledgment of collaborators and funders
+
+* Layout/design of the slides (eg, good color contrast, appropriate font size)
+
+* Speaking clearly and addressing the audience rather than the computer or slides
+
+* Presenting the background and clear rationale for the study
+
+* Brief explanation of the methods or approach
+
+* Highlighting expected results and any potential difficulties
+
+* Brief comment(s) on the implications of the research
+
+* Appropriate ending
+
+
+## Schedule
+
+Here is the schedule for the day. **Note that everyone has a total of 7 minutes for their presentation**. 
+
+```{r schedule, echo = FALSE}
+library(magrittr)
+library(kableExtra)
+set.seed(521)
+## get class roster
+roster <- c(
+  "Backstrom",
+  "Bengtsson",
+  "Bishop",
+  "Cattau",
+  "Chambers",
+  "Code",
+  "Doran",
+  "Hennings",
+  "Hiwatari",
+  "Jameson",
+  "Mantegna",
+  "Pendleton",
+  "Peraza",
+  "Setzke",
+  "Simeon",
+  "Stone",
+  "Tanja",
+  "Veggerby",
+  "Wang",
+  "Zahner"
+  )
+## order of presentations
+p_order <- c(sample(roster, length(roster)))
+
+items <- c("**[ Introduction ]**", p_order[1:7], "**[ Break ]**",
+           p_order[8:14], "**[ Break ]**", p_order[15:20], "**[ Wrap-up ]**")
+
+## first day of presentations
+start_date <- as.POSIXct("2022-02-28 13:30")
+## dates in seconds past `start_date`
+dates_sec <- c(0, 48, 96, 97, 98) * 3600
+## presentation times in seconds past the hour
+p_times_1 <- seq(5, by = 7, length.out = 7)
+break_1 <- 54
+p_times_2 <- seq(65, by = 7, length.out = 7)
+break_2 <- 113
+p_times_3 <- seq(125, by = 7, length.out = 7)
+
+times <- c(0, p_times_1, break_1, p_times_2, break_2, p_times_3) * 60
+
+date_times <- start_date + times
+
+## nicer formatting
+date_times <- as.POSIXct(date_times, origin = "1970-01-01")
+date_times <- format(date_times, "%I:%M")
+## drop leading 0
+date_times <- sub("0(\\d)", "\\1", date_times)
+
+schedule <- data.frame(Time = date_times,
+                       Speaker = items)
+
+kableExtra::kable(schedule, format = "html", caption = " ",
+                  align = "cc", escape = FALSE) %>%
+  kable_styling(bootstrap_options = "striped",
+                full_width = FALSE,
+                position = "left") %>%
+  column_spec(1, width = "6em") %>%
+  column_spec(2, width = "15em")
+
+```
+
+(The order of presentations was determined by random draw.)
+
+
+
