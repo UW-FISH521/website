@@ -1,0 +1,41 @@
+---
+title: "Student presentations"
+subtitle: "Homework #7"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "28 February 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Background
+
+Your assignment this week is to give a live presentation of your proposal idea **in class** on February 28. Your presentation should cover the following elements:
+
+* background and rationale for your proposed research
+
+* questions of interest (or hypotheses to test)
+
+* methods/approach
+
+* anticipated results
+
+* implications (intellectual merit)
+
+
+## Evaluation rubric
+
+Mark will evaluate the quality of your presentation based on the following criteria:
+
+* 
+
