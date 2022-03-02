@@ -1,0 +1,69 @@
+---
+title: "Final proposal"
+subtitle: "Homework #8"
+author: "FISH 521 - Proposal Writing and Professional Development"
+date: "7 March 2022"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Background
+
+Your final assignment for the course is to complete a full draft of a research proposal, building off of the introductory material you wrote for assignment #3. Some of you do not yet have fully formed research projects, so please do the best you can at this point, just as you did with your presentation. Mark will be looking for well-formed ideas, rationale, and methods, as well as improvement in your writing from your first draft.
+
+
+## Instructions
+
+Write a full draft of your research proposal with the following general structure that addresses the questions within each section. In addition, if you think it would help communicate the ideas in your proposal, feel free to also include 1-2 figures or schematics with appropriate captions (this is not required, though).
+
+### 1) Background and rationale (2-3 paragraphs)
+
+* What is the problem/question and why is it important?
+
+* What do we know and what is lacking in our understanding?
+
+### 2) Objectives (1 paragraph)
+
+* What are your objectives and specific hypotheses/questions?
+
+### 3) Approach (2-3 paragraphs)
+
+* What materials, data, and methods will you use to address the questions?
+
+### 4) Expectations (1-2 paragraphs)
+
+* What do you hope/expect to learn/discover?
+
+### 5) Intellectual merit (1-2 paragraphs)
+
+* What are the implications of your proposed research for the larger scientific commmunity?
+
+### 6) Broader impacts (1-2 paragraphs)
+
+* What is the potential for the proposed activity to benefit society or advance desired societal outcomes?
+
+* To what extent does your proposed research explore creative, original or potentially transformative concepts?
+
+### 7) References
+
+* Make sure to cite all relevant references and include them in a section labeled "References".
+
+* Format your references using some form of (*Author(s)* *Year*) or *Author(s)* (*Year*) style rather than superscripted numbers or letters.
+
+
+## Submission
+
+When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself.
+
+
