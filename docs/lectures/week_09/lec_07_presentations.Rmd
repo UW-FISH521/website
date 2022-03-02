@@ -13,6 +13,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
-
 # Please see the homework page [here](/website/homework/week_09/hw_07_presentations.html) for details
