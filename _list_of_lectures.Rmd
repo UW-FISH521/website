@@ -128,7 +128,7 @@ careers <- list(
   topics = c("Mentoring", "Career panel"),
   pdf = c(""),
   rmd = c(""),
-  html = c(""),
+  html = c("https://career-panel.netlify.app/"),
   background = c(""),
   zoom = ""
 )
