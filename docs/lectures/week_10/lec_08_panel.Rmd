@@ -1,0 +1,223 @@
+---
+title: "Scientific presentations"
+subtitle: "Proposal writing & professional development<br>FISH 521"
+author: "Mark Scheuerell"
+date: "14 February 2022"
+output:
+  ioslides_presentation:
+    css: lecture_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Presentations
+
+
+## Elements of a good presentation
+
+People really know a _bad_ presentation when they see one
+
+What makes a good presentation?
+
+
+## Elements of a good presentation | Know your audience
+
+To whom will you be speaking?
+
+* lab members
+
+* other experts
+
+* general public
+
+
+## Elements of a good presentation | Know your audience
+
+How much time do I have?
+
+* <10 min (lightning talk)
+
+* 15-20 (standard conference)
+
+* 45-50 min (full seminar)
+
+
+## Elements of a good presentation | Know your room
+
+If possible, check out the space well ahead of time
+
+> - Is there a podium or stage?
+
+> - Is there a lectern?
+
+> - Is there a microphone?
+
+> - Is there a laser pointer & how does it work?
+
+
+## Elements of a good presentation | Be yourself
+
+* People enjoy authenticity
+
+> - Show enthusiasm & excitement
+
+> - Use gestures & vocal inflections
+
+
+## Elements of a good presentation | Tell a story
+
+beginning / middle / end
+
+> - Start with context
+
+> - Frame the problem
+
+> - Provide highlights
+
+> - Summarize take-home message(s)
+
+
+## Elements of a good presentation | Keep it simple
+
+* Avoid jargon to the extent possible
+
+> - Use equations judiciously (use words whenever possible)
+
+> - data = truth &#177; error
+
+
+## Elements of a good presentation | Prepare, practice & perfect
+
+* Give yourself ample time to analyze & create
+
+> - Practice. Practice. Practice.
+
+> - Beware of "um", "uh", "you know"
+
+> - Consider writing out the first few sentences
+
+
+## Elements of a good presentation | Take care of yourself
+
+* Get plenty of rest
+
+> - Drink plenty of water
+
+> - Beware of your caffeine intake
+
+> - Eat something light beforehand
+
+
+## Elements of a good presentation | Look & act professional
+
+* Dress for the occasion
+
+> - Check your posture & hands & pockets
+
+> - Smile
+
+> - Speak loudly & proudly
+
+> - Use humor judiciously
+
+> - Talk to the audience, not the screen
+
+> - Take your time to explain things
+
+
+## Elements of a good presentation | Slide layouts
+
+* Use color judiciously
+
+> - Use high contrast colors & backgrounds
+
+> - Beware of templates
+
+> - Use large fonts (16+ point)
+
+> - Build up concepts from their components
+
+> - Never apologize for a slide or image
+
+
+## Elements of a good presentation | Title slide
+
+* Use a short but informative title
+
+> - List your name & affiliation
+
+> - List your email & possibly social media handle
+
+
+## Elements of a good presentation | Bullets & phrases
+
+* Text is for the audience, not you
+
+> - Use short phrases, not sentences (3-7 words)
+
+> - Don't read your own text
+
+
+## Elements of a good presentation | Plots & graphics
+
+* Keep them simple
+
+> - Walk people through plots (axes, points, lines, colors)
+
+> - A pictures is worth a 1000 words
+
+> - Beware of poor contrast of text/images
+
+
+## Elements of a good presentation | Tables
+
+* Just don't...
+
+> - If necessary, keep it small (2x2, 3x3)
+
+
+## Elements of a good presentation | Acknowledgments
+
+* Be sure to thank your collaborators, technicians & funders
+
+> - I like to do this in the beginning
+
+
+## Elements of a good presentation | Summary slide(s)
+
+* Consider 1-3 simple take-home messages
+
+> - List your email & possibly social media handle
+
+> - Use a definitive closing statement (eg, "Thank you")
+
+> - Avoid "Thank you!" or "Questions?" slides
+
+
+## Elements of a good presentation | Questions & answers
+
+* This can be the hardest part of your talk
+
+> - Repeating the Q shows you understand & gives you time to think
+
+> - Don't be afraid to say, "I don't know"
+
+> - Try to defuse antagonistic people ("I can talk to you afterward")
+
+
+# Social media for science
+
+## &nbsp; {data-background=trevor.png data-background-size=95% data-background-position="50% 50%"}
+
+
+## Trevor Branch
+
+Science communicator
+
+* [General SciComm](https://twitter.com/TrevorABranch) (with 16.1k followers!)
+
+* [Blue whale news](https://twitter.com/BlueWhaleNews)
+
