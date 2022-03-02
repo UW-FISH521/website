@@ -97,7 +97,7 @@ holiday_2 <- list(
 )
 
 ## week 9
-proposal_final <- list(
+presentation <- list(
   title = "",
   topics = c("Proposal presentation"),
   pdf = "",
@@ -108,12 +108,12 @@ proposal_final <- list(
 )
 
 ## week 10
-review_final <- list(
+proposal_final <- list(
   title = "",
   topics = c("Final proposal"),
   pdf = "",
   rmd = "",
-  html = "",
+  html = "homework/week_10/hw_08_proposal.html",
   due_date = "16 Mar",
   percent = "25%"
 )
