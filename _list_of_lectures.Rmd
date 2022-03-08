@@ -129,7 +129,7 @@ careers <- list(
   pdf = c(""),
   rmd = c(""),
   html = c("https://career-panel.netlify.app/"),
-  background = c(""),
+  background = c("[Hampton & Labou (2017)](references/Hampton_2017_careers_in_ecology.pdf)"),
   zoom = ""
 )
 
