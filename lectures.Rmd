@@ -26,15 +26,15 @@ output: html_document
 
 ```{r week_lecs, include = FALSE}
 ## empty list for lecs
-week_lecs <- vector("list", 10)
-names(week_lecs) <- paste0("L", seq(10))
+week_lecs <- vector("list", 9)
+names(week_lecs) <- paste0("L", seq(9))
 ## lecture topics
 ## week 1
 week_lecs$L1 <- intro
 ## week 2
-week_lecs$L2 <- proposals
+week_lecs$L2 <- holiday_1
 ## week 3
-week_lecs$L3 <- holiday_1
+week_lecs$L3 <- proposals
 ## week 4
 week_lecs$L4 <- papers
 ## week 5
@@ -42,13 +42,13 @@ week_lecs$L5 <- submission
 ## week 6
 week_lecs$L6 <- reviewing
 ## week 7
-week_lecs$L7 <- presentations
+week_lecs$L7 <- holiday_2
 ## week 8
-week_lecs$L8 <- holiday_2
+week_lecs$L8 <- presentations
 ## week 9
 week_lecs$L9 <- proposal_presentations
 ## week 10
-week_lecs$L10 <- careers
+# week_lecs$L10 <- careers
 ```
 
 ```{r topics, include = FALSE, eval = FALSE}
