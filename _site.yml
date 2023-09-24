@@ -2,6 +2,8 @@ name: "docs"
 navbar:
   title: "FISH 521"
   right:
+    - text: "Syllabus"
+      href: syllabus.html
     - text: "Schedule & materials"
       href: lectures.html
     - text: "Homework"
