@@ -19,19 +19,19 @@ All homework assignments should be emailed to the instructor at `scheuerl@uw.edu
 
 ```{r week_hw, include = FALSE}
 ## empty list for labs
-week_hw <- vector("list", 10)
-names(week_hw) <- paste0("L", seq(10))
+week_hw <- vector("list", 9)
+names(week_hw) <- paste0("L", seq(9))
 ## hw topics
 week_hw$L1 <- focal_paper
-week_hw$L2 <- message_box
-week_hw$L3 <- holiday_1
+week_hw$L2 <- holiday_1
+week_hw$L3 <- message_box
 week_hw$L4 <- proposal_draft
 week_hw$L5 <- cover_letter
 week_hw$L6 <- review_draft
-week_hw$L7 <- scicomm
-week_hw$L8 <- holiday_2
-week_hw$L9 <- presentation
-week_hw$L10 <- proposal_final
+week_hw$L7 <- holiday_2
+week_hw$L8 <- presentation
+week_hw$L9 <- proposal_final
+# week_hw$L10
 ```
 
 ```{r topics, include = FALSE}
@@ -122,25 +122,22 @@ percents_html <- sapply(lapply(percents, paste, "<br>", collapse = ""), c)
 names(percents_html) <- NULL
 ```
 
-```{r due_dates, include = FALSE}
-due_dates <- lapply(week_hw, function(x) { if(is.list(x)) {c(x$due_date)} else {""} })
-## due dates formatted for html
-due_dates_html <- sapply(lapply(due_dates, paste, "<br>", collapse = ""), c)
-names(due_dates_html) <- NULL
-```
-
 ```{r generate_table, echo=FALSE}
+## due dates
+due_date <- sub("0(\\d)", "\\1", format(mon[1:9] + 7, "%d %b"))
+due_date[c(2,7)] <- " "
+due_date[9] <- "13 Mar"
 ## data frame with dates & topics
 syl_txt <- data.frame(
-  date = sub("0(\\d)", "\\1", format(mon[1:10], "%d %b")),
+  assign_date = qtr,
   topics = topics_html,
   percents = percents_html,
   assignment_links = assignment_links_html,
+  due_date = due_date
   # template_links = template_links_html,
-  due_dates = due_dates_html
   # key_links = key_links_html
 )
-colnames(syl_txt) <- c("Date", "Topic", "Grade", "Instructions", "Due date")
+colnames(syl_txt) <- c("Date", "Topic", "Grade", "Instructions", "Due")
 rownames(syl_txt) <- NULL
 
 ## generate table
@@ -149,8 +146,8 @@ kable(syl_txt, format = "html", caption = " ",
   kable_styling(bootstrap_options = "striped",
                 full_width = FALSE,
                 position = "left") %>%
-  column_spec(1, width = "6em") %>%
-  column_spec(2, width = "20em") %>%
+  column_spec(1, width = "7em") %>%
+  column_spec(2, width = "18em") %>%
   column_spec(c(3, 4, 5), width = "8em")
 ```
 
