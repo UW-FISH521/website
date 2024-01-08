@@ -2,7 +2,7 @@
 title: "Course overview"
 subtitle: "Proposal writing & professional development<br>FISH 521"
 author: "Mark Scheuerell"
-date: "3 January 2022"
+date: "8 January 2024"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -54,12 +54,12 @@ MY QUALIFICATIONS?
 
 ## Mark Scheuerell
 
-* Author of 65+ peer-reviewed papers
+* Author of 70+ peer-reviewed papers
 
 
 ## Mark Scheuerell
 
-* Author of 65+ peer-reviewed papers
+* Author of 70+ peer-reviewed papers
 
 * Associate Editor, *Limnology and Oceanography Letters* (2016-present)
 
@@ -74,7 +74,7 @@ MY QUALIFICATIONS?
 
 ## Mark Scheuerell
 
-* Author of 65+ peer-reviewed papers
+* Author of 70+ peer-reviewed papers
 
 * Associate Editor, *Limnology and Oceanography Letters* (2016-present)
 
@@ -129,7 +129,7 @@ Course logistics
 
 * 1:30 - 2:30 discussion of background info
 
-* 2:30 - 2:40 *SAFS Cafe*
+* 2:30 - 2:40 *break*
 
 * 2:40 - 3:25 hands-on exercises & small-group discussions
 

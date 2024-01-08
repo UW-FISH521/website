@@ -2,7 +2,7 @@
 title: "Career panel"
 subtitle: "Proposal writing & professional development<br>FISH 521"
 author: "Mark Scheuerell"
-date: "7 March 2022"
+date: "11 March 2024"
 output:
   ioslides_presentation:
     css: lecture_slides.css
