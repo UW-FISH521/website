@@ -2,7 +2,7 @@
 title: "Reviewing a manuscript"
 subtitle: "Homework #5"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "7 February 2022"
+date: "12 February 2024"
 output:
   html_document:
     theme: cerulean

@@ -2,7 +2,7 @@
 title: "Proposal introduction & rationale"
 subtitle: "Homework #3"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "24 January 2022"
+date: "29 January 2024"
 output:
   html_document:
     theme: cerulean
