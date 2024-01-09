@@ -2,7 +2,7 @@
 title: "Student presentations"
 subtitle: "Homework #7"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "28 February 2022"
+date: "26 February 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Background
 
-Your assignment this week is to give a live presentation of your proposal idea **in class** on February 28. Your presentation should cover the following elements:
+Your assignment this week is to give a live presentation of your proposal idea **in class** on March 4. Your presentation should cover the following elements:
 
 * Background and rationale for your proposed research
 
