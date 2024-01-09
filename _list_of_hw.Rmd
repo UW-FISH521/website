@@ -65,7 +65,7 @@ review_draft <- list(
   pdf = "",
   rmd = "",
   html = "homework/week_06/hw_05_peer_review.html",
-  percent = "15%"
+  percent = "20%"
 )
 
 ## week 7
@@ -95,7 +95,7 @@ presentation <- list(
   pdf = "",
   rmd = "",
   html = "homework/week_09/hw_07_presentations.html",
-  percent = "15%"
+  percent = "20%"
 )
 
 ## week 10
