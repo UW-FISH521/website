@@ -65,7 +65,9 @@ submission <- list(
   html = c("lectures/week_05/lec_04_manuscripts_2.html"),
   background = c("[Taylor & Francis cover letter](references/cover_letter_template.pdf)",
                  "[Marwick et al (2018)](references/Marwick_etal_2018_research_compendia.pdf)",
-                 "[Cooper & Hsing (2017)](references/BES_guide_to_reproducible_code.pdf)"),
+                 "[Cooper & Hsing (2017)](references/BES_guide_to_reproducible_code.pdf)",
+                 "[Dubious journals](https://english.elpais.com/science-tech/2023-10-31/public-funds-being-swallowed-up-by-scientific-journals-with-dubious-articles.html)",
+                 "[Oviedo-Garcıa (2021)](references/Oviedo-Garcia_2021.pdf)"),
   zoom = ""
 )
 
